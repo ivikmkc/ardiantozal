@@ -162,6 +162,8 @@ http://185-8-178-139.livesports24.online/btsportsport2.m3u8
 http://ott-cdn.ucom.am/s82/03.m3u8
 #EXTINF:-1 tvg-logo="https://allsport.site/uploads/posts/2017-05/1496076533_pic_ch120-1-.jpg" group-title="Sport",SENTANA SPORT
 http://ott-cdn.ucom.am/s81/03.m3u8
+#EXTINF:-1,PPTV HD
+http://119.59.125.74/stream/psi-play.php?id=76
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport_1_HD_FULL_1
 http://iptv.drsharing.com:50100/www.drsharing.com/dr/36
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport_2_HD_FULL_1
