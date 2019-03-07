@@ -162,8 +162,6 @@ http://185-8-178-139.livesports24.online/btsportsport2.m3u8
 http://ott-cdn.ucom.am/s82/03.m3u8
 #EXTINF:-1 tvg-logo="https://allsport.site/uploads/posts/2017-05/1496076533_pic_ch120-1-.jpg" group-title="Sport",SENTANA SPORT
 http://ott-cdn.ucom.am/s81/03.m3u8
-#EXTINF:-1,PPTV HD
-http://119.59.125.74/stream/psi-play.php?id=76
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport_1_HD_FULL_1
 http://iptv.drsharing.com:50100/www.drsharing.com/dr/36
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport_2_HD_FULL_1
@@ -184,6 +182,18 @@ http://iptv.drsharing.com:50100/www.drsharing.com/dr/43
 http://iptv.drsharing.com:50100/www.drsharing.com/dr/44
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport_10_HD_FULL_1
 http://iptv.drsharing.com:50100/www.drsharing.com/dr/45
+#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="Sport", ABU DHABI SPORT
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="Sport",ABU DHABI SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="Sport",,Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="Sport",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="Sport",Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="Sport",Abu Dhabi Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
 #EXTINF:-1,FR=SFR-Sport-1-HD
 http://iptv.drsharing.com:50100/www.drsharing.com/dr/2819
 #EXTINF:-1,FR=SFR-Sport-2-HD
