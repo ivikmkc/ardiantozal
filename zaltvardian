@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="LOKAL",Gratis 082351672105 or 085245678665
 https://www.dropbox.com/s/uarxxybwrq82r88/ZALTVku.mp4?dl=1
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="LOKAL",test
+P2p://217.182.18.136:9906/5bf11adf0003d831a1f55eb802015ad7.ts
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL",www.toples.ml
 http://id8.indostreamingtv.com/live/digdayatv/index.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV
