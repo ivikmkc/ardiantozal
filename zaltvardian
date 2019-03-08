@@ -281,6 +281,8 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b22
 http://stream1.ninmedia.tv/live/xmedia-mktv.stream_nin/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MUSIC",DANGDUTZ
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:-1, MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MUSIC",MiX Music
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MUSIC",TMusic
