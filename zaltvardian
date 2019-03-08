@@ -69,7 +69,7 @@ http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="Film",CELESTIAL MOVIES ID
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/1475818891_featured-celestial-october.jpg" group-title="Film",Celestial Clasic Movie MY
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/1475818891_featured-ial-october.jpg" group-title="Film",Celestial Clasic Movie MY
 http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
 #EXTINF:0,HBO HD
 http://218.202.220.2:5000/nn_live.ts?id=HBO
@@ -85,14 +85,12 @@ http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/
 http://210.210.155.35/uq2663/h/h09/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Diva_Universal.png/revision/latest?cb=20101001090312" group-title="Film",DIVA
 http://210.210.155.35/uq2663/h/h11/index.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Zee_Bioskop.jpg/revision/latest?cb=20171105135209" group-title="Film",ZEE BISOKOP
-http://lihattv.com/?play=43413
+
 #EXTINF:-1 tvg-logo="https://st2.depositphotos.com/3969727/9519/v/950/depositphotos_95197520-stock-illustration-cinema-word-written-spray-paint.jpg" group-title="Film",CINEMA WORD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="Film",HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35JoK6F1U3X9bd_lpNTTPdJXW0sHSYv8txdj0l9ZBPnz3pXs4" group-title="Film",CELESTRIAL MOVIE
-http://lihattv.com/?play=43414
+
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/2404695_logo_wow_tv.png" group-title="Film"",WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/1200px-Dragon_Television_%28China%29_logo.svg.png" group-title="Film",ZING KONG OTT
@@ -315,7 +313,7 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/8c/23/ff/8c23ffe477717c21de730f66685c3972.png" group-title="KIDS",NICK
 http://61.216.177.73/sta/ch10119026.m3u8
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/dztnc_Wsuy8/maxresdefault.jpg" group-title="KIDS",ANIMAX
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+http://45.126.83.51/dr9445/h/h18/01.m3u8
 #EXTINF:-1  tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="KIDS",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="KIDS",BOOMERANG
