@@ -271,51 +271,6 @@ http://service.biptv.uk:80/EdgarLima/edgarlima19/10914
 
 http://service.biptv.uk:80/EdgarLima/edgarlima19/8902
 
-#EXTINF:-1,ELEVEN SPORTS 6 FHD (PT)
-
-http://service.biptv.uk:80/EdgarLima/edgarlima19/8901
-#EXTINF:-1 tvg-id="14a85b0e6d84091dfe74af671f3da902",Bein 1 Thai  [KP]
-http://116.47.94.77:9981/stream/channelid/240887828?ticket=04246e3afb26997bb0bc04bf56f6fcbc4f8c798f&profile=pass
-#EXTINF:-1 tvg-id="63c6d89dd6df2498afbf71194a24164b",Bein 2 Thai  [KP]
-http://116.47.94.77:9981/stream/channelid/500745827?ticket=8a4e3dcac37d0619be8254f2ac9959a4963df31a&profile=pass
-#EXTINF:-1 tvg-id="5eab3b543af21f82710975b79c85b8f2",Bein 3 Thai  [KP]
-http://116.47.94.77:9981/stream/channelid/1413196638?ticket=9b11c4d4ae723f120bccbcf7a8c75a97c5580d48&profile=pass
-#EXTINF:-1 tvg-id="c518dfbe43010b337a6b08b7fcec5dd9",Bein 4 Thai  [KP]
-http://116.47.94.77:9981/stream/channelid/1054808261?ticket=0910dc28c2597e1105076d871415e6dd9341191b&profile=pass
-#EXTINF:-1 tvg-id="8fc2fcf527f78d58c2c0475767c9b925",FOX SPORTS 1 [KP]
-http://116.47.94.77:9981/stream/channelid/1979499151?ticket=3695a8eab07c32a85723cb3d96455068544ba1a0&profile=pass
-#EXTINF:-1 tvg-id="916f852010557fa26d4b3ccd999a20d5",FOX SPORTS 2 [KP]
-http://116.47.94.77:9981/stream/channelid/545615761?ticket=0c2b35bf201c8eff4a8edde15a008e224af2e17c&profile=pass
-#EXTINF:-1 tvg-id="222a40dbd8bef9d39196919e62c417ad",FOX SPORTS 3 [KP]
-http://116.47.94.77:9981/stream/channelid/1530931746?ticket=659f889a0290eb9f3b3f5dffb0f5405af8b446d8&profile=pass
-#EXTINF:-1 tvg-id="c5cc8377f561525989ff309178eef796",SKYNET SPORTS 1 [KP]
-http://116.47.94.77:9981/stream/channelid/2005126341?ticket=482b155d5d9d91ff4f4b594abfbe9aecf3cc6ab2&profile=pass
-#EXTINF:-1 tvg-id="8f3bb7a56ebc5c9f981f6dc14826eb21",SKYNET SPORTS 2 [KP]
-http://116.47.94.77:9981/stream/channelid/632765327?ticket=f651f2783f7fe38cc43aed00dd738cffe51b26f8&profile=pass
-#EXTINF:-1 tvg-id="0e715500684e8d9e7113753593510981",SKYNET SPORTS 3 [KP]
-http://116.47.94.77:9981/stream/channelid/5599502?ticket=226187fced04159730d5fd72a1fceb8a644bffb8&profile=pass
-#EXTINF:-1 tvg-id="dddab6060f3725f14b3fda9dede50e45",SKYNET SPORTS 5 [KP]
-http://116.47.94.77:9981/stream/channelid/112646877?ticket=b4d94affce362b2540d737b0d80ecc3a82f4236e&profile=pass
-#EXTINF:-1 tvg-id="e8beb7909740de6eaf46c3aff36f4245",SKYNET SPORTS HD [KP]
-http://116.47.94.77:9981/stream/channelid/280477416?ticket=00b1f0194f92d901113883fe3377636cea032e36&profile=pass
-#EXTINF:-1 tvg-id="b1fd4a3c1e96bec4e12d5b84534bd54e",SKYNET SPORTS PLUS [KP]
-http://116.47.94.77:9981/stream/channelid/1011547569?ticket=1a3bb49cb9ebf333052164d94dd57e2ffe3f1581&profile=pass
-#EXTINF:-1 tvg-id="773617be8e94b94a1b9eaefea7efbc76",True HD1 [KP]
-http://116.47.94.77:9981/stream/channelid/1041708663?ticket=3a8f9cfb59785a13f273a1422781c6ad7526b848&profile=pass
-#EXTINF:-1 tvg-id="4ce40746e7f688ba456a45a116b44489",True HD2 [KP]
-http://116.47.94.77:9981/stream/channelid/1174922316?ticket=346bf8280a2127557ce26ce2b5bd544336f53666&profile=pass
-#EXTINF:-1 tvg-id="15a4eacd8853eb7433e0631334744f44",True HD3 [KP]
-http://116.47.94.77:9981/stream/channelid/1307223061?ticket=7b1b21bb9c45e317eb88631dbab414756f6118e7&profile=pass
-#EXTINF:-1 tvg-id="e1ae06ac85698d6c240cb6551becb2d0",True HD4 [KP]
-http://116.47.94.77:9981/stream/channelid/738635489?ticket=46f67b64d80f560b674e4dac89fa7af1efef2f19&profile=pass
-#EXTINF:-1 tvg-id="9280d749428678b1162d2af47d8529e1",True Sport2 [KP]
-http://116.47.94.77:9981/stream/channelid/1238859922?ticket=f4fa43bfbdb454f1e052be26730e22d50a892486&profile=pass
-#EXTINF:-1 tvg-id="31b342eb2bef140ff9004b04842a1089",True Sport5 [KP]
-http://116.47.94.77:9981/stream/channelid/1799533361?ticket=0195ebe14e58785cb084721ee847e06cd3851fdf&profile=pass
-#EXTINF:-1 tvg-id="571141f917d9ac3d65543911aa7503ed",True Sport6 [KP]
-http://116.47.94.77:9981/stream/channelid/2034307415?ticket=b22d9c76aabef0873377694af981ed2665218ae4&profile=pass
-#EXTINF:-1 tvg-id="e97f719fdcda207cff43e1dbd9da90fa",True Sport7 
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MUSIC",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MUSIC",MK TV
