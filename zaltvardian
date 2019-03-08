@@ -247,6 +247,33 @@ https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/02.m3u8
 https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport",MU TV
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/01.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 FHD (PT)
+
+http://service.biptv.uk:80/EdgarLima/edgarlima19/8906
+
+#EXTINF:-1,ELEVEN SPORTS 2 FHD (PT)
+
+http://service.biptv.uk:80/EdgarLima/edgarlima19/8905
+
+#EXTINF:-1,ELEVEN SPORTS 3 FHD (PT)
+
+http://service.biptv.uk:80/EdgarLima/edgarlima19/8904
+
+#EXTINF:-1,ELEVEN SPORTS 4 FHD (PT)
+
+http://service.biptv.uk:80/EdgarLima/edgarlima19/8903
+
+#EXTINF:-1,ELEVEN SPORTS 5 HD PT
+
+http://service.biptv.uk:80/EdgarLima/edgarlima19/10914
+
+#EXTINF:-1,ELEVEN SPORTS 5 FHD (PT)
+
+http://service.biptv.uk:80/EdgarLima/edgarlima19/8902
+
+#EXTINF:-1,ELEVEN SPORTS 6 FHD (PT)
+
+http://service.biptv.uk:80/EdgarLima/edgarlima19/8901
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MUSIC",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
