@@ -306,22 +306,22 @@ http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MUSIC",O FHD
 http://77.232.128.68/bks.m3u8
 
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KIDS",MY KIDS 
+#EXTINF:-1  tvg-logo="https://www.infotelevisi.com/asset/images/tv/my-kids.jpg" group-title="KIDS",MY KIDS
 http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KIDS",ANIMAX ID 
-http://210.210.155.35/session/233e8924-0c90-11e9-8256-c81f66f89318/dr9445/h/h18/01.m3u8 
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KIDS",CARTOON NETWORK 1 
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KIDS",DISNEY JUNIOR
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KIDS",AniPlus
+#EXTINF:-1  tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="KIDS",AniPlus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KIDS",CARTOON NETWORK 2
-http://persik.by/stream/2944/263250/32.m3u8
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KIDS",DISNEY CHANNEL
-http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KIDS",MIAO MI
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/8c/23/ff/8c23ffe477717c21de730f66685c3972.png" group-title="KIDS",NICK
+http://61.216.177.73/sta/ch10119026.m3u8
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/dztnc_Wsuy8/maxresdefault.jpg" group-title="KIDS",ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+#EXTINF:-1  tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="KIDS",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="KIDS",BOOMERANG
+http://88.216.48.14:80/boomerang/live.m3u8
 
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="INFO",natgeo
 http://103.205.133.14/hls/natgeo.m3u8
