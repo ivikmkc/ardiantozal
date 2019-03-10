@@ -263,19 +263,6 @@ https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/02.m3u8
 https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport",MU TV
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/01.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="Sport",ELEVEN SPORTS 1 FHD (PT)
-http://service.biptv.uk:80/EdgarLima/edgarlima19/8906
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="Sport",ELEVEN SPORTS 2 FHD (PT)
-http://service.biptv.uk:80/EdgarLima/edgarlima19/8905
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="Sport",ELEVEN SPORTS 3 FHD (PT)
-http://service.biptv.uk:80/EdgarLima/edgarlima19/8904
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="Sport",ELEVEN SPORTS 4 FHD (PT)
-http://service.biptv.uk:80/EdgarLima/edgarlima19/8903
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="Sport",ELEVEN SPORTS 5 HD PT
-http://service.biptv.uk:80/EdgarLima/edgarlima19/10914
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="Sport",ELEVEN SPORTS 5 FHD (PT)
-http://service.biptv.uk:80/EdgarLima/edgarlima19/8902
-
 
 ########################### MUSIC ##################################
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="MUSIC",Tmusic
