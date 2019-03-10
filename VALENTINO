@@ -1,0 +1,2831 @@
+#EXTM3U
+
+################################  AE  ########################################
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi Drama HD [720p]
+http://adtv.ercdn.net/addrama/addrama_720p.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi Drama HD [720p]
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi Emarat [720p]
+http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi TV [270p]
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi TV [480p]
+http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi TV [720p]
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Al Aan
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",DUBAI ONE [AR][480p]
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/15.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",DUBAI ONE [AR][720p]
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",DUBAI ONE [AR][720p]
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Dubai TV [AR][720p]
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Dubai TV [AR][720p]
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=dubai&t=ar
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",DUBAI ZAMAN (1+)
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/11.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Dubai Zaman [576p]
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Emarat TV [720p]
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",MBC 2
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/65.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",MBC 4 [576p]
+http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",SAMA DUBAI
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Sama Dubai
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",YAS TV
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8?IPTVBRASILHD
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi Sports 2 [480p]
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi Sports 2 [720p]
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi Sports 2 [720p]
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi Sports 2 [720p]
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi Sports [480p]
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi Sports [720p]
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi Sports [720p]
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",Abu Dhabi Sports [720p]
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",Dubai Sport [AR][720p]
+http://dmivll.mangomolo.com/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",Dubai Sports 2 [AR][720p]
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",Dubai Sports [AR][720p]
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",Dubai Sports [AR][720p]
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+
+#################################   AL ########################################
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Ora News
+http://145.239.2.153:8081/oranews/live/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",REPORT TV
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",RROKUM TV
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",RTV Zeri Danimarke
+http://178.132.6.97/RTVZeriiKosovesDanimarke1/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV Jug 
+http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",WEDDING CHANNEL
+http://wedding-channel.tv/stream.m3u8
+
+################################  ALL WORLD  #####################################
+
+#EXTINF:0,Rai 1 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22450
+#EXTINF:0,Rai 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2399
+#EXTINF:0,Rai 2 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22449
+#EXTINF:0,Rai 2 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2400
+#EXTINF:0,Rai 3 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22448
+#EXTINF:0,Rai 3 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2401
+#EXTINF:0,Rete 4 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22447
+#EXTINF:0,Rete 4 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3813
+#EXTINF:0,Canale 5 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22458
+#EXTINF:0,Canale 5 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3811
+#EXTINF:0,Italia 1 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22451
+#EXTINF:0,Italia 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3812
+#EXTINF:0,La 7 HD Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27922
+#EXTINF:0,La 7 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3814
+#EXTINF:0,TV 8
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2435
+#EXTINF:0,Cine Sony
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/29883
+#EXTINF:0,Nove Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27921
+#EXTINF:0,Nove HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27920
+#EXTINF:0,Grande Fratello VIP Diretta +1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/34535
+#EXTINF:0,Grande Fratello VIP Diretta 1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/34537
+#EXTINF:0,Grande Fratello VIP Diretta 2
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/34536
+#EXTINF:0,Rsi La1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30199
+#EXTINF:0,Rsi La2 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30200
+#EXTINF:0,La 7d HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27923
+#EXTINF:0,Iris
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2514
+#EXTINF:0,Giallo
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3223
+#EXTINF:0,TV 2000
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2515
+#EXTINF:0,Rai Premium
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2466
+#EXTINF:0,Rai Movie
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2464
+#EXTINF:0,Rai 4 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/29884
+#EXTINF:0,Rai 4
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2407
+#EXTINF:0,Rai 5 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/29885
+#EXTINF:0,Rai 5
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2408
+#EXTINF:0,Mediaset Extra
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2434
+#EXTINF:0,Canale 20 Mediaset
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30374
+#EXTINF:0,La 5
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2516
+#EXTINF:0,Wine TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30202
+#EXTINF:0,Top Crime
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2489
+#EXTINF:0,Italia 2
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2429
+#EXTINF:0,Espansione TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/21070
+#EXTINF:0,TV Padre Pio
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30201
+#EXTINF:0,Sport Italia
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/7156
+#EXTINF:0,Rai Sport 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/13609
+#EXTINF:0,TOP Calcio 24 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30206
+#EXTINF:0,MotorTrend
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31807
+
+#EXTINF:0,===== SKY CINEMA =====
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/1032
+#EXTINF:0,Sky Cinema 1 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22440
+#EXTINF:0,Sky Cinema 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3806
+#EXTINF:0,Sky Cinema 1 FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22414
+#EXTINF:0,Sky Cinema  1 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22442
+#EXTINF:0,Sky Cinema +1 FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22416
+#EXTINF:0,Sky Cinema +24 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22441
+#EXTINF:0,Sky Cinema +24 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/4148
+#EXTINF:0,Sky Cinema +24 FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22415
+#EXTINF:0,Sky Cinema Hits HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22434
+#EXTINF:0,Sky Cinema Hits FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3820
+#EXTINF:0,Sky Cinema Hits ULTRA HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22409
+#EXTINF:0,Sky Cinema Family HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22435
+#EXTINF:0,SKY Cinema Family FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3237
+#EXTINF:0,Sky Cinema Family ULTRA HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22410
+#EXTINF:0,Sky Cinema Family  1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22436
+#EXTINF:0,Sky Cinema Family  1 ULTRA HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22411
+#EXTINF:0,Sky Cinema Adventure Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/40350
+#EXTINF:0,Sky Cinema Adventure HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/40351
+#EXTINF:0,Sky Cinema Max HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22432
+#EXTINF:0,Sky Cinema Max FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3807
+#EXTINF:0,Sky Cinema Max  1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22433
+#EXTINF:0,Sky Cinema Max  1 ULTRA HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22408
+#EXTINF:0,Sky Cinema Passion HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22431
+#EXTINF:0,Sky Cinema Passion FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3821
+#EXTINF:0,Sky Cinema Passion ULTRA HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22407
+#EXTINF:0,Sky Cinema Cult HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22437
+#EXTINF:0,Sky Cinema Cult FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22348
+#EXTINF:0,Sky Cinema Cult ULTRA HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22412
+#EXTINF:0,Sky Cinema Classic HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22439
+#EXTINF:0,Sky CInema Classic FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3663
+#EXTINF:0,Sky Cinema Comedy HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22438
+#EXTINF:0,Sky Cinema Comedy FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3236
+#EXTINF:0,Sky Cinema Comedy ULTRA HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22413
+#EXTINF:0,STORIE SPORTIVE LIVE
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/38819
+
+#EXTINF:0,===== PREMIUM CINEMA =====
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/17975
+#EXTINF:0,Premium Cinema 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2450
+#EXTINF:0,Premium Cinema  24 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2518
+#EXTINF:0,Premium Cinema Emotion HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2453
+#EXTINF:0,Premium Cinema Comedy
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2452
+#EXTINF:0,Paramount Channel
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/13608
+#EXTINF:0,Premium Cinema Energy HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22464
+#EXTINF:0,Premium Cinema Energy +24
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22465
+#EXTINF:0,===== INTRATTENIMENTO SKY =====
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/1039
+#EXTINF:0,Sky Uno HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3808
+#EXTINF:0,Sky Uno Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27785
+#EXTINF:0,Sky Atlantic HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22444
+#EXTINF:0,Sky Atlantic FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3805
+#EXTINF:0,Sposa HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/16158
+#EXTINF:0,Fox HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22453
+#EXTINF:0,Fox FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3801
+#EXTINF:0,Fox Life HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22454
+#EXTINF:0,Fox Life FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3802
+#EXTINF:0,Fox Life ULTRA HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22419
+#EXTINF:0,Fox Crime HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22455
+#EXTINF:0,Fox Crime FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2424
+#EXTINF:0,Fox Crime ULTRA HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22420
+#EXTINF:0,Fox Comedy HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22456
+#EXTINF:0,Fox Comedy FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/21666
+#EXTINF:0,Fox Animation HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22457
+#EXTINF:0,Fox Animation FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/21667
+#EXTINF:0,Fox Animation ULTRA HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22421
+#EXTINF:0,Crime Investigation HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3649
+#EXTINF:0,CI Crime Investigation ULTRA HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22422
+#EXTINF:0,Comedy Central HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/17130
+#EXTINF:0,Manga Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25662
+#EXTINF:0,Manga HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25661
+#EXTINF:0,Cielo
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2414
+#EXTINF:0,LaEffe Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25668
+#EXTINF:0,LaEffe HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25667
+#EXTINF:0,Dmax Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25666
+#EXTINF:0,Dmax HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25665
+#EXTINF:0,Real Time  HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/12834
+#EXTINF:0,Real Time
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2468
+#EXTINF:0,Dove TV Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30148
+#EXTINF:0,Dove TV HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30149
+#EXTINF:0,===== INTRATTENIMENTO PREMIUM =====
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22354
+#EXTINF:0,Premium Action HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2521
+#EXTINF:0,Premium Crime HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2522
+#EXTINF:0,Premium Investigation Discovery
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22466
+#EXTINF:0,Premium Stories
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2461
+#EXTINF:0,Premium Joy
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2460
+
+#EXTINF:0,===== SKY SPORT =====
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/1033
+#EXTINF:0,Sky Sport 24 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22426
+#EXTINF:0,Sky Sport 24 FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2483
+#EXTINF:0,Sky Sport NBA HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22424
+#EXTINF:0,Sky Sport NBA FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/8640
+#EXTINF:0,Sky Sport Uno HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22428
+#EXTINF:0,Sky Sport Uno FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2480
+#EXTINF:0,Sky Sport Football HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22427
+#EXTINF:0,Sky Sport Football FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2481
+#EXTINF:0,Sky Sport Arena HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22425
+#EXTINF:0,Sky Sport Arena FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2482
+#EXTINF:0,Sky Sport Golf HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22452
+#EXTINF:0,Sky Sport Golf FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3109
+#EXTINF:0,Sky Formula 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22430
+#EXTINF:0,Sky Sport F1 FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2478
+#EXTINF:0,Sky Moto GP HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22429
+#EXTINF:0,Sky Moto GP FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2479
+#EXTINF:0,Class Horse Tv
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/16159
+#EXTINF:0,EuroSport 1 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/40348
+#EXTINF:0,Eurosport 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/4156
+#EXTINF:0,EuroSport 2 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/40349
+#EXTINF:0,Eurosport 2 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/4157
+#EXTINF:0,Supertennis HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2513
+#EXTINF:0,Blaze HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22463
+#EXTINF:0,Blaze FULL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/13702
+#EXTINF:0,Bike Channel HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/13859
+#EXTINF:0,Automoto TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/40105
+#EXTINF:0,Ginx Esport HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30208
+#EXTINF:0,RedBull TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30205
+#EXTINF:0,UnireSat HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30204
+#EXTINF:0,FN Sport
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/39754
+#EXTINF:0,===== WWE PPV =====
+http://ares.dominium.tv:6923/movie/YAyh8hxO3C/R4XWI8KQXY/30346.mkv
+#EXTINF:0,WWE PPV CHANNEL 1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30347
+#EXTINF:0,WWE PPV CHANNEL 2
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30348
+#EXTINF:0,===== WWE LIVE =====
+http://ares.dominium.tv:6923/movie/YAyh8hxO3C/R4XWI8KQXY/25245.mkv
+#EXTINF:0,WWE LIVE 1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25242
+#EXTINF:0,WWE LIVE 2
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25243
+#EXTINF:0,WWE LIVE 3
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25244
+#EXTINF:0,===== SKY CALCIO =====
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/1359
+#EXTINF:0,Sky Sport Serie A HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22423
+#EXTINF:0,Sky Sport Serie A Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2484
+#EXTINF:0,Sky Sport 1 - 251 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/22443
+#EXTINF:0,Sky Sport 1 - 251 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2470
+#EXTINF:0,Sky Sport 2 - 252 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2471
+#EXTINF:0,Sky Sport 2 - 252 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25954
+#EXTINF:0,Sky Sport 3 - 253 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2472
+#EXTINF:0,Sky Sport 3 - 253 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25955
+#EXTINF:0,Sky Sport 4 - 254 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/4160
+#EXTINF:0,Sky Sport 4 - 254 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25956
+#EXTINF:0,Sky Sport 5 - 255 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/4511
+#EXTINF:0,Sky Sport 5 - 255 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25957
+#EXTINF:0,Sky Sport 6 - 256 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/4512
+#EXTINF:0,Sky Sport 6 - 256 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25958
+#EXTINF:0,Sky Sport 7 - 257 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/6107
+#EXTINF:0,Sky Sport 7 - 257 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25959
+#EXTINF:0,Sky Sport 8 - 258 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/8497
+#EXTINF:0,Sky Sport 8 - 258 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25960
+#EXTINF:0,Sky Sport 9 - 259 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25962
+#EXTINF:0,Sky Sport 9 - 259 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25961
+#EXTINF:0,Sky Sport 10 - 260 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25964
+#EXTINF:0,Sky Sport 10 - 260 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25963
+#EXTINF:0,Sky Sport 261 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25966
+#EXTINF:0,Sky Sport 11 - 261 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25965
+#EXTINF:0,Sky Sport 12 - 262 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25968
+#EXTINF:0,Sky Sport 12 - 262 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25967
+#EXTINF:0,Inter Channel HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25971
+#EXTINF:0,Inter Channel Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25972
+#EXTINF:0,Milan Channel HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25977
+#EXTINF:0,Milan Channel Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25978
+#EXTINF:0,Roma Channel HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25969
+#EXTINF:0,Roma Channel Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25970
+#EXTINF:0,Lazio Channel HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25975
+#EXTINF:0,Lazio Channel Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25976
+#EXTINF:0,Torino Channel Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30207
+#EXTINF:0,===== VETRINA DAZN SPORT =====
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31988
+#EXTINF:0,DAZN SERIE-A 1 (DVB-S) Full-HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/33592
+#EXTINF:0,DAZN SERIE-A 1 (DVB-S) HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/33591
+#EXTINF:0,DAZN SERIE-A 1 (DVB-S) SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/33590
+#EXTINF:0,DAZN SERIE-A 2 (DVB-S) Full-HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/33589
+#EXTINF:0,DAZN SERIE-A 2 (DVB-S) HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/33588
+#EXTINF:0,DAZN SERIE-A 2 (DVB-S) SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/33587
+#EXTINF:0,Dazn Sport 1 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31987
+#EXTINF:0,Dazn Sport 2 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31986
+#EXTINF:0,Dazn Sport 3 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31985
+#EXTINF:0,Dazn Sport 4 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31984
+#EXTINF:0,Dazn Sport 5 Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31983
+#EXTINF:0,Dazn Sport 6
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31982
+#EXTINF:0,Dazn Sport 7
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31981
+#EXTINF:0,Dazn Sport 8
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31980
+#EXTINF:0,Dazn Sport 9
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31979
+#EXTINF:0,Dazn Sport 10
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31978
+#EXTINF:0,Dazn Sport 11
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31977
+#EXTINF:0,Dazn Sport 12
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31976
+#EXTINF:0,Dazn Sport 13
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31975
+#EXTINF:0,Dazn Sport 14
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31974
+#EXTINF:0,Eleven Sports 1 HD ( Polonia )
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32500
+#EXTINF:0,Eleven Sports 2 HD ( Polonia )
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32501
+#EXTINF:0,Eleven Sports 3 HD ( Polonia )
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32502
+#EXTINF:0,===== [ LPC ]  .... LEGA PRO ........ =====
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/29805
+#EXTINF:0,LEGA PRO | Catania
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/33443
+#EXTINF:0,LEGA PRO | Piacenza
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/33444
+#EXTINF:0,LEGA PRO |  Pro Piacenza
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32525
+#EXTINF:0,LEGA PRO |  Pro vercelli
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32524
+#EXTINF:0,LEGA PRO |  Robur Siena
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32517
+#EXTINF:0,LEGA PRO | Albinoleffe
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32558
+#EXTINF:0,LEGA PRO | Albissola
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32557
+#EXTINF:0,LEGA PRO | Alessandria
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32556
+#EXTINF:0,LEGA PRO | Arezzo
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32555
+#EXTINF:0,LEGA PRO | Arzachena
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32554
+#EXTINF:0,LEGA PRO | Bisceglie
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32553
+#EXTINF:0,LEGA PRO | Carrarese
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32552
+#EXTINF:0,LEGA PRO | Casertana
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32551
+#EXTINF:0,LEGA PRO | Catanzaro
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32550
+#EXTINF:0,LEGA PRO | Cuneo
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32549
+#EXTINF:0,LEGA PRO | Fano
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32548
+#EXTINF:0,LEGA PRO | Feralpisal
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32547
+#EXTINF:0,LEGA PRO | Fermana
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32546
+#EXTINF:0,LEGA PRO | Francavilla
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32545
+#EXTINF:0,LEGA PRO | Giana Erminio
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32544
+#EXTINF:0,LEGA PRO | Gozzano
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32543
+#EXTINF:0,LEGA PRO | Gubbio
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32542
+#EXTINF:0,LEGA PRO | Imolese
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32541
+#EXTINF:0,LEGA PRO | Juve Stabia
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32540
+#EXTINF:0,LEGA PRO | Juventus 23
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32539
+#EXTINF:0,LEGA PRO | Lucchese
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32538
+#EXTINF:0,LEGA PRO | Matera
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32537
+#EXTINF:0,LEGA PRO | Monopoli
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32536
+#EXTINF:0,LEGA PRO | Monza
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32535
+#EXTINF:0,LEGA PRO | Novara
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32534
+#EXTINF:0,LEGA PRO | Olbia
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32533
+#EXTINF:0,LEGA PRO | Paganese
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32532
+#EXTINF:0,LEGA PRO | Pisa
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32531
+#EXTINF:0,LEGA PRO | Pistoiese
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32530
+#EXTINF:0,LEGA PRO | Pontedera
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32529
+#EXTINF:0,LEGA PRO | Pordenone
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32528
+#EXTINF:0,LEGA PRO | Potenza
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32527
+#EXTINF:0,LEGA PRO | Pro Patria
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32526
+#EXTINF:0,LEGA PRO | Ravenna
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32523
+#EXTINF:0,LEGA PRO | Reggina
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32522
+#EXTINF:0,LEGA PRO | Renate
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32521
+#EXTINF:0,LEGA PRO | Rende
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32520
+#EXTINF:0,LEGA PRO | Rieti
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32519
+#EXTINF:0,LEGA PRO | Rimini
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32518
+#EXTINF:0,LEGA PRO | Sambenedettese
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32516
+#EXTINF:0,LEGA PRO | Sicula Leonzio
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32515
+#EXTINF:0,LEGA PRO | Siracusa
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32514
+#EXTINF:0,LEGA PRO | Sudtirol
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32513
+#EXTINF:0,LEGA PRO | Teramo
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32512
+#EXTINF:0,LEGA PRO | Ternana
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32511
+#EXTINF:0,LEGA PRO | Trapani
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32510
+#EXTINF:0,LEGA PRO | Triestina
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32509
+#EXTINF:0,LEGA PRO | Vibonese
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32508
+#EXTINF:0,LEGA PRO | Vicenza
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32507
+#EXTINF:0,LEGA PRO | Virtus Entella
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32506
+#EXTINF:0,LEGA PRO | Virtus Verona
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32505
+#EXTINF:0,LEGA PRO | Viterbese Castrese
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32503
+#EXTINF:0,LEGA PRO | Vis Pesaro
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/32504
+#EXTINF:0,===== CULTURA =====
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/1036
+#EXTINF:0,National Geographic HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2437
+#EXTINF:0,Nat Geo People HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2438
+#EXTINF:0,Nat Geo Wild HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2439
+#EXTINF:0,Animal Planet
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2410
+#EXTINF:0,Discovery HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3824
+#EXTINF:0,Discovery Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27925
+#EXTINF:0,Discovery Science HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3825
+#EXTINF:0,Discovery Sci Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27926
+#EXTINF:0,Discovery T&L HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3817
+#EXTINF:0,Discovery T&L Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27927
+#EXTINF:0,Cielo HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/12902
+#EXTINF:0,Caccia e Pesca HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25651
+#EXTINF:0,Caccia e Pesca Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25652
+#EXTINF:0,Pesca e Caccia
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/12197
+#EXTINF:0,Italia Fishing
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/16160
+#EXTINF:0,Focus
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2422
+#EXTINF:0,History HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/4159
+#EXTINF:0,History Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27915
+#EXTINF:0,Sky Arte HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2524
+#EXTINF:0,Sky Arte Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27919
+#EXTINF:0,Gambero Rosso HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/3658
+#EXTINF:0,Gambero Rosso Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27918
+#EXTINF:0,Alice
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2409
+#EXTINF:0,Spike (Fine Living)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2421
+#EXTINF:0,Marco Polo
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2433
+#EXTINF:0,Rai Storia HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/14099
+#EXTINF:0,Rai Scuola HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2496
+#EXTINF:0,Rai Senato
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2497
+#EXTINF:0,===== BAMBINI =====
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/6638
+#EXTINF:0,Baby TV HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27916
+#EXTINF:0,Baby TV Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27917
+#EXTINF:0,Disney Channel HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27779
+#EXTINF:0,Disney Channel Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27780
+#EXTINF:0,Disney Junior HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27781
+#EXTINF:0,Disney Junior Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27782
+#EXTINF:0,Dea Kids HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25657
+#EXTINF:0,Dea Kids Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25658
+#EXTINF:0,Nick Junior HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25653
+#EXTINF:0,Nick Junior Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25654
+#EXTINF:0,Nickelodeon HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/29477
+#EXTINF:0,Nickelodeon Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/29476
+#EXTINF:0,Dea Junior HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25655
+#EXTINF:0,Dea Junior Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25656
+#EXTINF:0,Teen Nick HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25663
+#EXTINF:0,Teen Nick Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25664
+#EXTINF:0,Boomerang HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27783
+#EXTINF:0,Boomerang Full HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/27784
+#EXTINF:0,Boing
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/14082
+#EXTINF:0,Disney Channel XD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2457
+#EXTINF:0,Disney XD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2416
+#EXTINF:0,Cartoonito
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2413
+#EXTINF:0,K2
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2430
+#EXTINF:0,Frisbee
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2427
+#EXTINF:0,Rai Gulp
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2463
+#EXTINF:0,Super!
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2487
+#EXTINF:0,Rai Yoyo
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2498
+#EXTINF:0,Nikeleodeon
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/8663
+#EXTINF:0,Premium Carton Network
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2449
+#EXTINF:0,Pop Italy
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30210
+#EXTINF:0,===== NOTIZIE =====
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/6640
+#EXTINF:0,Sky TG 24 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2485
+#EXTINF:0,Rai News 24
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2465
+#EXTINF:0,TgCom 24
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/2488
+#EXTINF:0,Euronews TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30211
+#EXTINF:0,TG Norba 24
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/7493
+#EXTINF:0,Videolina
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/9286
+#EXTINF:0,Italia 7 gold
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/9280
+#EXTINF:0,Sardegna 1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/9285
+#EXTINF:0,==== CANALI SD ====
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37764
+#EXTINF:0,[SD] Blaze SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37762
+#EXTINF:0,[SD] Crime Investigation SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37761
+#EXTINF:0,[SD] Dea Kids SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37760
+#EXTINF:0,[SD] Disney Junior SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37759
+#EXTINF:0,[SD] Fox Animation SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37758
+#EXTINF:0,[SD] Fox Comedy SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37757
+#EXTINF:0,[SD] Fox Crime SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37756
+#EXTINF:0,[SD] Fox Life SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37755
+#EXTINF:0,[SD] Fox SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37754
+#EXTINF:0,[SD] Nick Jr SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37753
+#EXTINF:0,[SD] Nickelodeon SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37752
+#EXTINF:0,[SD] Sky Atlantic SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37751
+#EXTINF:0,Sky Sport 1 - 251 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37750
+#EXTINF:0,Sky Sport 2 - 252 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37749
+#EXTINF:0,Sky Sport 3 - 253 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37748
+#EXTINF:0,Sky Sport 4 - 254 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37747
+#EXTINF:0,[SD] Sky Cinema 24 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37746
+#EXTINF:0,[SD] Sky Cinema Classic SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37745
+#EXTINF:0,[SD] Sky Cinema Comedy SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37744
+#EXTINF:0,[SD] Sky Cinema Cult SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37743
+#EXTINF:0,[SD] Sky Cinema Family SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37742
+#EXTINF:0,[SD] Sky Cinema Hits SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37741
+#EXTINF:0,[SD] Sky Cinema Max SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37740
+#EXTINF:0,[SD] Sky Cinema Passion SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37739
+#EXTINF:0,[SD] Sky Cinema Uno SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37738
+#EXTINF:0,[SD] Sky Sport 24 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37736
+#EXTINF:0,[SD] Sky Sport Arena SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37735
+#EXTINF:0,[SD] Sky Sport F1 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37734
+#EXTINF:0,[SD] Sky Sport Football SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37733
+#EXTINF:0,[SD] Sky Sport Golf SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37732
+#EXTINF:0,[SD] Sky Sport Motogp SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37731
+#EXTINF:0,[SD] Sky Sport Nba SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37730
+#EXTINF:0,[SD] Sky Sport Serie A SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37729
+#EXTINF:0,[SD] Sky Sport Uno SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37728
+#EXTINF:0,[SD] Sky Uno SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/37727
+#EXTINF:0,===== WWE VOD =====
+http://ares.dominium.tv:6923/movie/YAyh8hxO3C/R4XWI8KQXY/39942.mkv
+#EXTINF:0,WWE Elimination Chamber 2019
+http://ares.dominium.tv:6923/movie/YAyh8hxO3C/R4XWI8KQXY/40421.mkv
+#EXTINF:0,WWE Royal Rumble 2019 PPV
+http://ares.dominium.tv:6923/movie/YAyh8hxO3C/R4XWI8KQXY/39940.mkv
+#EXTINF:0,WWE Royal Rumble 2019 Kickoff
+http://ares.dominium.tv:6923/movie/YAyh8hxO3C/R4XWI8KQXY/39941.mkv
+#EXTINF:0,===== PRIMAFILA SKY LIVE =====
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/29887
+#EXTINF:0,VETRINA PRIMAFILA
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/29859
+#EXTINF:0,PRIMAFILA 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25761
+#EXTINF:0,PRIMAFILA 2 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25762
+#EXTINF:0,PRIMAFILA 3 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25763
+#EXTINF:0,PRIMAFILA 4 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25764
+#EXTINF:0,PRIMAFILA 5 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25765
+#EXTINF:0,PRIMAFILA 6 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25766
+#EXTINF:0,PRIMAFILA 7 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25767
+#EXTINF:0,PRIMAFILA 8 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25768
+#EXTINF:0,PRIMAFILA 9 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25769
+#EXTINF:0,PRIMAFILA 10 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25770
+#EXTINF:0,PRIMAFILA 11 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25771
+#EXTINF:0,PRIMAFILA 12 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25772
+#EXTINF:0,PRIMAFILA 13 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25773
+#EXTINF:0,PRIMAFILA 14 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25774
+#EXTINF:0,PRIMAFILA 15 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25775
+#EXTINF:0,PRIMAFILA 16 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25776
+#EXTINF:0,PRIMAFILA 17 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25777
+#EXTINF:0,PRIMAFILA 18 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25778
+#EXTINF:0,PRIMAFILA 19 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/25779
+#EXTINF:0,[ DE ] 13th Street
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30828
+#EXTINF:0,[ DE ] 13th Street HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30827
+#EXTINF:0,[ DE ] 3Sat HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30826
+#EXTINF:0,[ DE ] Animal Planet
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30825
+#EXTINF:0,[ DE ] Animal Planet HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30824
+#EXTINF:0,[ DE ] Anixe HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30823
+#EXTINF:0,[ DE ] Anixe HD Series
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30822
+#EXTINF:0,[ DE ] Arte HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30821
+#EXTINF:0,[ DE ] ATV HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30820
+#EXTINF:0,[ DE ] Auto Motor Sport HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30819
+#EXTINF:0,[ DE ] AXN
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30818
+#EXTINF:0,[ DE ] AXN HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30817
+#EXTINF:0,[ DE ] Boomerang HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30816
+#EXTINF:0,[ DE ] Cartoon Network HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30815
+#EXTINF:0,[ DE ] Das Erste
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30814
+#EXTINF:0,[ DE ] Das Erste HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30813
+#EXTINF:0,[ DE ] Discovery Channel
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30811
+#EXTINF:0,[ DE ] Discovery Channel HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30810
+#EXTINF:0,[ DE ] Disney Channel HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30809
+#EXTINF:0,[ DE ] Disney Cinemagic HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30808
+#EXTINF:0,[ DE ] Disney Junior HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30807
+#EXTINF:0,[ DE ] Disney XD HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30806
+#EXTINF:0,[ DE ] Dmax HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30805
+#EXTINF:0,[ DE ] E! HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30804
+#EXTINF:0,[ DE ] Eurosport 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30803
+#EXTINF:0,[ DE ] Eurosport 2 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30802
+#EXTINF:0,[ DE ] Eurosport 2 HD XTRA
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30801
+#EXTINF:0,[ DE ] Film Club 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30800
+#EXTINF:0,[ DE ] Film Club 2 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30799
+#EXTINF:0,[ DE ] Film Club 3 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30798
+#EXTINF:0,[ DE ] Film Club 4 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30797
+#EXTINF:0,[ DE ] Film Club 5 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30796
+#EXTINF:0,[ DE ] FOX
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30795
+#EXTINF:0,[ DE ] FOX HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30794
+#EXTINF:0,[ DE ] GO TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30793
+#EXTINF:0,[ DE ] Heimat Kanal HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30792
+#EXTINF:0,[ DE ] History Channel
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30791
+#EXTINF:0,[ DE ] History Channel HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30790
+#EXTINF:0,[ DE ] Jukebox
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30789
+#EXTINF:0,[ DE ] Junior HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30788
+#EXTINF:0,[ DE ] Kabel 1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30787
+#EXTINF:0,[ DE ] Kabel 1  HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30786
+#EXTINF:0,[ DE ] Kabel 1 Classic HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30785
+#EXTINF:0,[ DE ] Kabel 1 Doku HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30784
+#EXTINF:0,[ DE ] KIKA HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30783
+#EXTINF:0,[ DE ] Kinowelt TV HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30782
+#EXTINF:0,[ DE ] Krone Hit HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30781
+#EXTINF:0,[ DE ] Motorvision HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30780
+#EXTINF:0,[ DE ] N-TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30778
+#EXTINF:0,[ DE ] N-TV HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30777
+#EXTINF:0,[ DE ] N24
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30776
+#EXTINF:0,[ DE ] N24 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30775
+#EXTINF:0,[ DE ] Nat Geo People HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30774
+#EXTINF:0,[ DE ] Nat Geo Wild
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30773
+#EXTINF:0,[ DE ] Nat Geo Wild  HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30772
+#EXTINF:0,[ DE ] National Geographic
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30771
+#EXTINF:0,[ DE ] National Geographic HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30770
+#EXTINF:0,[ DE ] NDR HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30769
+#EXTINF:0,[ DE ] Nick HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30768
+#EXTINF:0,[ DE ] Nick JR HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30767
+#EXTINF:0,[ DE ] Nickelodeon HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30766
+#EXTINF:0,[ DE ] Nickelodeon Schweiz HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30765
+#EXTINF:0,[ DE ] ORF 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30764
+#EXTINF:0,[ DE ] ORF 2 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30763
+#EXTINF:0,[ DE ] ORF 3 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30762
+#EXTINF:0,[ DE ] ORF Sport   HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30761
+#EXTINF:0,[ DE ] Phoenix HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30760
+#EXTINF:0,[ DE ] PLANET HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30759
+#EXTINF:0,[ DE ] Pro 7
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30758
+#EXTINF:0,[ DE ] Pro 7 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30757
+#EXTINF:0,[ DE ] Pro 7 Maxx
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30756
+#EXTINF:0,[ DE ] Pro 7 Maxx HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30755
+#EXTINF:0,[ DE ] Pro7 Fun HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30754
+#EXTINF:0,[ DE ] Programm¸bersicht Sky Select
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30753
+#EXTINF:0,[ DE ] Romance TV HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30752
+#EXTINF:0,[ DE ] RTL
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30751
+#EXTINF:0,[ DE ] RTL Crime
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30750
+#EXTINF:0,[ DE ] RTL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30749
+#EXTINF:0,[ DE ] RTL II
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30748
+#EXTINF:0,[ DE ] RTL II HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30747
+#EXTINF:0,[ DE ] RTL Living HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30746
+#EXTINF:0,[ DE ] RTL NITRO HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30745
+#EXTINF:0,[ DE ] RTL Passion
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30744
+#EXTINF:0,[ DE ] RTL Plus
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30743
+#EXTINF:0,[ DE ] RTL You HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30742
+#EXTINF:0,[ DE ] Sat 1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30741
+#EXTINF:0,[ DE ] Sat 1  HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30740
+#EXTINF:0,[ DE ] Sat 1 Emotions HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30739
+#EXTINF:0,[ DE ] Sat 1 Gold
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30738
+#EXTINF:0,[ DE ] SilverLine Movie
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30737
+#EXTINF:0,[ DE ] Sixx
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30736
+#EXTINF:0,[ DE ] SIXX HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30735
+#EXTINF:0,[ DE ] Sky 1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30734
+#EXTINF:0,[ DE ] Sky 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30733
+#EXTINF:0,[ DE ] Sky Arts HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30732
+#EXTINF:0,[ DE ] Sky Atlantic
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30731
+#EXTINF:0,[ DE ] Sky Atlantic   1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30730
+#EXTINF:0,[ DE ] Sky Atlantic HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30729
+#EXTINF:0,[ DE ] Sky Cinema
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30728
+#EXTINF:0,[ DE ] Sky Cinema  1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30727
+#EXTINF:0,[ DE ] Sky Cinema  1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30726
+#EXTINF:0,[ DE ] Sky Cinema  24
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30725
+#EXTINF:0,[ DE ] Sky Cinema  24 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30724
+#EXTINF:0,[ DE ] Sky Cinema Action
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30723
+#EXTINF:0,[ DE ] Sky Cinema Action HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30722
+#EXTINF:0,[ DE ] Sky Cinema Comedy HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30721
+#EXTINF:0,[ DE ] Sky Cinema Emotion
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30720
+#EXTINF:0,[ DE ] Sky Cinema Emotion HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30719
+#EXTINF:0,[ DE ] Sky Cinema Family HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30718
+#EXTINF:0,[ DE ] Sky Cinema HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30717
+#EXTINF:0,[ DE ] Sky Cinema Hits
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30716
+#EXTINF:0,[ DE ] Sky Cinema Hits HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30715
+#EXTINF:0,[ DE ] Sky Cinema Nostalgie HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30714
+#EXTINF:0,[ DE ] Sky DMAX
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30713
+#EXTINF:0,[ DE ] Sky Krimi
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30712
+#EXTINF:0,[ DE ] Sky Select Live 1 (Planet der Affen-Survival)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30711
+#EXTINF:0,[ DE ] Sky Select Live 10 (Wonder Woman)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30710
+#EXTINF:0,[ DE ] Sky Select Live 11 (The Boss Baby)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30709
+#EXTINF:0,[ DE ] Sky Select Live 12 (Vier gegen die Bank)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30708
+#EXTINF:0,[ DE ] Sky Select Live 2 (Der Dunkle Turm)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30707
+#EXTINF:0,[ DE ] Sky Select Live 3 (Dunkirk)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30706
+#EXTINF:0,[ DE ] Sky Select Live 4 (Baby Driver)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30705
+#EXTINF:0,[ DE ] Sky Select Live 5 (Emoji-Der Film)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30704
+#EXTINF:0,[ DE ] Sky Select Live 6 (Spider-Man Homecoming)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30703
+#EXTINF:0,[ DE ] Sky Select Live 7 (King Arthur-Legend of the Sword)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30702
+#EXTINF:0,[ DE ] Sky Select Live 8 (Valerian-Die Stadt der tausend Planeten)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30701
+#EXTINF:0,[ DE ] Sky Select Live 9 (Ich-Einfach unverbesserlich 3)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30700
+#EXTINF:0,[ DE ] Sky Sport 1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30699
+#EXTINF:0,[ DE ] Sky Sport 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30698
+#EXTINF:0,[ DE ] Sky Sport 10 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30697
+#EXTINF:0,[ DE ] Sky Sport 2
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30696
+#EXTINF:0,[ DE ] Sky Sport 2 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30695
+#EXTINF:0,[ DE ] Sky Sport 3 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30694
+#EXTINF:0,[ DE ] Sky Sport 4 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30693
+#EXTINF:0,[ DE ] Sky Sport 5 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30692
+#EXTINF:0,[ DE ] Sky Sport 6 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30691
+#EXTINF:0,[ DE ] Sky Sport 7 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30690
+#EXTINF:0,[ DE ] Sky Sport 8 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30689
+#EXTINF:0,[ DE ] Sky Sport 9 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30688
+#EXTINF:0,[ DE ] Sky Sport Austria HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30687
+#EXTINF:0,[ DE ] Sky Sport Bundesliga 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30686
+#EXTINF:0,[ DE ] Sky Sport Bundesliga 1 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30685
+#EXTINF:0,[ DE ] Sky Sport Bundesliga 10 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30684
+#EXTINF:0,[ DE ] Sky Sport Bundesliga 2 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30683
+#EXTINF:0,[ DE ] Sky Sport Bundesliga 2 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30682
+#EXTINF:0,[ DE ] Sky Sport Bundesliga 3 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30681
+#EXTINF:0,[ DE ] Sky Sport Bundesliga 3 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30680
+#EXTINF:0,[ DE ] Sky Sport Bundesliga 4 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30679
+#EXTINF:0,[ DE ] Sky Sport Bundesliga 4 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30678
+#EXTINF:0,[ DE ] Sky Sport Bundesliga 5 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30677
+#EXTINF:0,[ DE ] Sky Sport Bundesliga 5 SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30676
+#EXTINF:0,[ DE ] Sky Sport Bundesliga 6 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30675
+#EXTINF:0,[ DE ] Sky Sport Bundesliga 7 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30674
+#EXTINF:0,[ DE ] Sky Sport Bundesliga 8 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30673
+#EXTINF:0,[ DE ] Sky Sport Bundesliga 9 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30672
+#EXTINF:0,[ DE ] Sky Sport News HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30671
+#EXTINF:0,[ DE ] Sonnenklar TV HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30670
+#EXTINF:0,[ DE ] Sony HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30669
+#EXTINF:0,[ DE ] Spiegel Geschichte HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30668
+#EXTINF:0,[ DE ] Spiegel TV Wissen
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30667
+#EXTINF:0,[ DE ] Spiegel TV Wissen HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30666
+#EXTINF:0,[ DE ] SPORT 1  HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30665
+#EXTINF:0,[ DE ] SPORT 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30664
+#EXTINF:0,[ DE ] Sportdigital HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30663
+#EXTINF:0,[ DE ] Super RTL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30662
+#EXTINF:0,[ DE ] SYFY
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30661
+#EXTINF:0,[ DE ] Tele 5 tv HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30660
+#EXTINF:0,[ DE ] TLC HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30659
+#EXTINF:0,[ DE ] TNT Comedy HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30658
+#EXTINF:0,[ DE ] TNT Film HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30657
+#EXTINF:0,[ DE ] TNT Serie HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30656
+#EXTINF:0,[ DE ] Universal Channel HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30655
+#EXTINF:0,[ DE ] VIVA / COMEDY CENTRAL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30654
+#EXTINF:0,[ DE ] VOX
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30653
+#EXTINF:0,[ DE ] VOX  HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30652
+#EXTINF:0,[ DE ] WDR HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30651
+#EXTINF:0,[ DE ] Welt Der Wunder
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30650
+#EXTINF:0,[ DE ] XITE Base
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30649
+#EXTINF:0,[ DE ] ZDF HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30648
+#EXTINF:0,[ DE ] ZDF Info HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30647
+#EXTINF:0,[ DE ] Zee one HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30646
+#EXTINF:0,[ ES ] Andalucia Tv
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30467
+#EXTINF:0,[ ES ] Antena 3 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30466
+#EXTINF:0,[ ES ] AXN
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30465
+#EXTINF:0,[ ES ] AXN White HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30464
+#EXTINF:0,[ ES ] Azteca Honduras
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30463
+#EXTINF:0,[ ES ] Azteca Noticias
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30462
+#EXTINF:0,[ ES ] Azteca Trece
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30461
+#EXTINF:0,[ ES ] Baby TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30460
+#EXTINF:0,[ ES ] BARCA TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30459
+#EXTINF:0,[ ES ] beIN SPORTS HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30458
+#EXTINF:0,[ ES ] beIN SPORTS LA LIGA HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30457
+#EXTINF:0,[ ES ] beIN SPORTS — HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30456
+#EXTINF:0,[ ES ] BOING
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30455
+#EXTINF:0,[ ES ] Calle 13 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30454
+#EXTINF:0,[ ES ] Canal  Deportes
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30453
+#EXTINF:0,[ ES ] Canal Cocina
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30452
+#EXTINF:0,[ ES ] Canal DeCasa
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30451
+#EXTINF:0,[ ES ] Canal HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30450
+#EXTINF:0,[ ES ] Cartoon Network
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30449
+#EXTINF:0,[ ES ] Comedy Central
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30448
+#EXTINF:0,[ ES ] Cosmo HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30447
+#EXTINF:0,[ ES ] Crimen y Investigation
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30446
+#EXTINF:0,[ ES ] Cuatro
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30445
+#EXTINF:0,[ ES ] Disney Channel
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30444
+#EXTINF:0,[ ES ] Disney Junior
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30443
+#EXTINF:0,[ ES ] Disney XD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30442
+#EXTINF:0,[ ES ] Energy
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30441
+#EXTINF:0,[ ES ] EUROSPORT
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30440
+#EXTINF:0,[ ES ] Fox
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30439
+#EXTINF:0,[ ES ] FOX HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30438
+#EXTINF:0,[ ES ] FOX LIFE
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30437
+#EXTINF:0,[ ES ] FOX Life HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30436
+#EXTINF:0,[ ES ] GOL TV HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30435
+#EXTINF:0,[ ES ] Historia
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30434
+#EXTINF:0,[ ES ] Hollywood HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30433
+#EXTINF:0,[ ES ] Hollywood SD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30432
+#EXTINF:0,[ ES ] LA LIGA 1 2 3 TV HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30431
+#EXTINF:0,[ ES ] LA LIGA TV HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30430
+#EXTINF:0,[ ES ] la sexta HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30429
+#EXTINF:0,[ ES ] M DEPORTES 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30428
+#EXTINF:0,[ ES ] M DEPORTES 2 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30427
+#EXTINF:0,[ ES ] M FORMULA 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30426
+#EXTINF:0,[ ES ] M FUTBOL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30425
+#EXTINF:0,[ ES ] M GOLF HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30424
+#EXTINF:0,[ ES ] M MOTO GP HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30423
+#EXTINF:0,[ ES ] M PARTIDAZO HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30422
+#EXTINF:0,[ ES ] Mega
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30421
+#EXTINF:0,[ ES ] Moviestar Portrada
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30420
+#EXTINF:0,[ ES ] Moviestar Series
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30419
+#EXTINF:0,[ ES ] Movistar Accion
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30418
+#EXTINF:0,[ ES ] Movistar Comedia HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30417
+#EXTINF:0,[ ES ] Movistar DCine
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30416
+#EXTINF:0,[ ES ] Movistar Estrenos
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30415
+#EXTINF:0,[ ES ] Movistar F1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30414
+#EXTINF:0,[ ES ] Movistar MotoGP
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30413
+#EXTINF:0,[ ES ] Movistar Series
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30412
+#EXTINF:0,[ ES ] Movistar Series Xtra
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30411
+#EXTINF:0,[ ES ] Movistar Xtra
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30410
+#EXTINF:0,[ ES ] N Cuatro HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30408
+#EXTINF:0,[ ES ] Nat Geo Wild
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30407
+#EXTINF:0,[ ES ] National Geographic
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30406
+#EXTINF:0,[ ES ] Neox Tv
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30405
+#EXTINF:0,[ ES ] Nickelodeon
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30404
+#EXTINF:0,[ ES ] Nova
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30403
+#EXTINF:0,[ ES ] Odisea Tv
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30402
+#EXTINF:0,[ ES ] Paramount Channel
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30401
+#EXTINF:0,[ ES ] REAL MADRID TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30400
+#EXTINF:0,[ ES ] RealMadrid TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30399
+#EXTINF:0,[ ES ] RTVA
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30398
+#EXTINF:0,[ ES ] Sevilla Channel
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30397
+#EXTINF:0,[ ES ] SYFY
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30396
+#EXTINF:0,[ ES ] Taquilla 1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30395
+#EXTINF:0,[ ES ] Taquilla 10
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30394
+#EXTINF:0,[ ES ] Taquilla 2
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30393
+#EXTINF:0,[ ES ] Taquilla 3
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30392
+#EXTINF:0,[ ES ] Taquilla 4
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30391
+#EXTINF:0,[ ES ] Taquilla 5
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30390
+#EXTINF:0,[ ES ] Taquilla 6
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30389
+#EXTINF:0,[ ES ] Taquilla 7
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30388
+#EXTINF:0,[ ES ] Taquilla 8
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30387
+#EXTINF:0,[ ES ] Taquilla 9
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30386
+#EXTINF:0,[ ES ] Telecinco
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30385
+#EXTINF:0,[ ES ] Telecinco HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30384
+#EXTINF:0,[ ES ] Telesur
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30383
+#EXTINF:0,[ ES ] Televisa HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30382
+#EXTINF:0,[ ES ] TNT
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30381
+#EXTINF:0,[ ES ] Toros Tv
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30380
+#EXTINF:0,[ ES ] TV3 Catalynia HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30379
+#EXTINF:0,[ ES ] TVE Clan
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30378
+#EXTINF:0,[ ES ] TVE LA 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30377
+#EXTINF:0,[ ES ] TVE LA 2
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30376
+#EXTINF:0,[ ES ] Viajar HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30375
+#EXTINF:0,[ FR ]  Equidia Life HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30645
+#EXTINF:0,[ FR ] 13eme Rue HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30644
+#EXTINF:0,[ FR ] 6TER HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30643
+#EXTINF:0,[ FR ] AB1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30642
+#EXTINF:0,[ FR ] AB3
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30641
+#EXTINF:0,[ FR ] Action
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30640
+#EXTINF:0,[ FR ] AL Sace20
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30639
+#EXTINF:0,[ FR ] Animaux
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30638
+#EXTINF:0,[ FR ] Arte
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30637
+#EXTINF:0,[ FR ] beIN SPORTS 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30636
+#EXTINF:0,[ FR ] beIN SPORTS 10 MAX
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30635
+#EXTINF:0,[ FR ] beIN SPORTS 2 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30634
+#EXTINF:0,[ FR ] beIN SPORTS 3 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30633
+#EXTINF:0,[ FR ] beIN SPORTS 4 MAX
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30632
+#EXTINF:0,[ FR ] beIN SPORTS 5 MAX
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30631
+#EXTINF:0,[ FR ] beIN SPORTS 6 MAX
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30630
+#EXTINF:0,[ FR ] beIN SPORTS 7 MAX
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30629
+#EXTINF:0,[ FR ] beIN SPORTS 8 MAX
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30628
+#EXTINF:0,[ FR ] beIN SPORTS 9 MAX
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30627
+#EXTINF:0,[ FR ] BFM Sport
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30626
+#EXTINF:0,[ FR ] BFM TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30625
+#EXTINF:0,[ FR ] Boing HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30624
+#EXTINF:0,[ FR ] Boomerang HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30623
+#EXTINF:0,[ FR ] C8
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30622
+#EXTINF:0,[ FR ] Canal  Cinema HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30621
+#EXTINF:0,[ FR ] Canal  CinÈma HD 1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30620
+#EXTINF:0,[ FR ] Canal  Decale HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30619
+#EXTINF:0,[ FR ] CANAL  FAMILY HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30618
+#EXTINF:0,[ FR ] Canal  HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30617
+#EXTINF:0,[ FR ] Canal  Series HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30616
+#EXTINF:0,[ FR ] Canal  Sport HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30615
+#EXTINF:0,[ FR ] CANAL CINEMA
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30614
+#EXTINF:0,[ FR ] Canal Decale HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30613
+#EXTINF:0,[ FR ] Canal J
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30612
+#EXTINF:0,[ FR ] Canal Plus Sport HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30611
+#EXTINF:0,[ FR ] Cartoon Network HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30551
+#EXTINF:0,[ FR ] Chasse & Peche
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30550
+#EXTINF:0,[ FR ] CHERIE 25
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30549
+#EXTINF:0,[ FR ] Cine  Classic HD.
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30548
+#EXTINF:0,[ FR ] Cine  Club HD.
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30547
+#EXTINF:0,[ FR ] Cine  Emotion HD.
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30546
+#EXTINF:0,[ FR ] Cine  Famiz
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30545
+#EXTINF:0,[ FR ] Cine  Frisson HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30544
+#EXTINF:0,[ FR ] Cine  FX HD.
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30543
+#EXTINF:0,[ FR ] Cine  Polar HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30542
+#EXTINF:0,[ FR ] Cine  Premier HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30541
+#EXTINF:0,[ FR ] Cine  Star HD.
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30540
+#EXTINF:0,[ FR ] DISCOVERY HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30539
+#EXTINF:0,[ FR ] Disney Channel
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30538
+#EXTINF:0,[ FR ] Disney Cinema HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30537
+#EXTINF:0,[ FR ] Disney Junior HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30536
+#EXTINF:0,[ FR ] Disney XD HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30535
+#EXTINF:0,[ FR ] EuroNews
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30533
+#EXTINF:0,[ FR ] Euronews fr
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30532
+#EXTINF:0,[ FR ] Foot   24 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30531
+#EXTINF:0,[ FR ] France 2 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30530
+#EXTINF:0,[ FR ] France 24 en Anglais
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30529
+#EXTINF:0,[ FR ] France 24 News
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30528
+#EXTINF:0,[ FR ] France 3 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30527
+#EXTINF:0,[ FR ] France 4 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30526
+#EXTINF:0,[ FR ] France 5 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30525
+#EXTINF:0,[ FR ] France O
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30524
+#EXTINF:0,[ FR ] GONG
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30523
+#EXTINF:0,[ FR ] Gulli
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30522
+#EXTINF:0,[ FR ] HD1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30521
+#EXTINF:0,[ FR ] HISTOIRE
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30520
+#EXTINF:0,[ FR ] iTele
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30519
+#EXTINF:0,[ FR ] La Chaine Normande
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30518
+#EXTINF:0,[ FR ] LCP
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30517
+#EXTINF:0,[ FR ] M6 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30516
+#EXTINF:0,[ FR ] Mangas
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30514
+#EXTINF:0,[ FR ] Nat Geo HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30511
+#EXTINF:0,[ FR ] National Geo
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30510
+#EXTINF:0,[ FR ] National Geo Wild
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30509
+#EXTINF:0,[ FR ] Nickelodeon
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30508
+#EXTINF:0,[ FR ] Nickelodeon Junior
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30507
+#EXTINF:0,[ FR ] NRJ Hits HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30506
+#EXTINF:0,[ FR ] Nrj12
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30505
+#EXTINF:0,[ FR ] NT1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30504
+#EXTINF:0,[ FR ] OCS CHOC HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30503
+#EXTINF:0,[ FR ] OCS CITY HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30502
+#EXTINF:0,[ FR ] OCS GEANTS HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30501
+#EXTINF:0,[ FR ] OCS MAX HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30500
+#EXTINF:0,[ FR ] PARAMOUNT CHANNEL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30499
+#EXTINF:0,[ FR ] PARIS PREMIERE
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30498
+#EXTINF:0,[ FR ] Paris Premiere HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30497
+#EXTINF:0,[ FR ] Piwi
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30496
+#EXTINF:0,[ FR ] Planete A&E HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30495
+#EXTINF:0,[ FR ] Planete-A-and-E-HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30494
+#EXTINF:0,[ FR ] Planete-HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30493
+#EXTINF:0,[ FR ] RMC Decouverte
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30492
+#EXTINF:0,[ FR ] RTS LA DEUX HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30491
+#EXTINF:0,[ FR ] RTS LA UN HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30490
+#EXTINF:0,[ FR ] Salle de cinÈma (Les Gardiens de la Galaxie 2)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30489
+#EXTINF:0,[ FR ] SCIENCE ET VIE HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30488
+#EXTINF:0,[ FR ] Serie Club
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30487
+#EXTINF:0,[ FR ] SFR SPORT 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30486
+#EXTINF:0,[ FR ] SFR SPORT 2 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30485
+#EXTINF:0,[ FR ] SFR SPORT 3 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30484
+#EXTINF:0,[ FR ] SFR SPORT 5 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30483
+#EXTINF:0,[ FR ] Syfy HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30482
+#EXTINF:0,[ FR ] TCM CINEMA
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30481
+#EXTINF:0,[ FR ] Tele Sambre
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30480
+#EXTINF:0,[ FR ] TeleToon
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30479
+#EXTINF:0,[ FR ] TF1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30478
+#EXTINF:0,[ FR ] TIJI
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30477
+#EXTINF:0,[ FR ] TMC
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30476
+#EXTINF:0,[ FR ] TV 5 Monde
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30475
+#EXTINF:0,[ FR ] Voyage
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30473
+#EXTINF:0,[ FR ] WEO HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30471
+#EXTINF:0,[ FR ] ZOUZOU TV (petite)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30470
+#EXTINF:0,[ FR ]Cine Action HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30469
+#EXTINF:0,[ FR ]Cine Comedie HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30468
+#EXTINF:0,[ UK ] 3E Ireland
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31042
+#EXTINF:0,[ UK ] Baby TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31041
+#EXTINF:0,[ UK ] BBC 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31040
+#EXTINF:0,[ UK ] BBC 4 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31039
+#EXTINF:0,[ UK ] BBC News HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31038
+#EXTINF:0,[ UK ] BEIN SPORT 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31037
+#EXTINF:0,[ UK ] BEIN SPORT 2 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31035
+#EXTINF:0,[ UK ] BEIN SPORT 3 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31034
+#EXTINF:0,[ UK ] BEIN SPORT 4 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31033
+#EXTINF:0,[ UK ] BEIN SPORT 5 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31032
+#EXTINF:0,[ UK ] BEIN SPORT 6 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31031
+#EXTINF:0,[ UK ] BEIN SPORT 7 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31030
+#EXTINF:0,[ UK ] BEIN SPORT 8 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31029
+#EXTINF:0,[ UK ] BEIN SPORT 9 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31028
+#EXTINF:0,[ UK ] BEIN SPORT 10 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31036
+#EXTINF:0,[ UK ] BET Star
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31027
+#EXTINF:0,[ UK ] BoomeRang
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31026
+#EXTINF:0,[ UK ] Box Hits
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31025
+#EXTINF:0,[ UK ] Box Upfront
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31024
+#EXTINF:0,[ UK ] BT Sport   ESPN HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31023
+#EXTINF:0,[ UK ] BT Sport 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31022
+#EXTINF:0,[ UK ] BT Sport 2 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31021
+#EXTINF:0,[ UK ] BT Sport 3 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31020
+#EXTINF:0,[ UK ] BT Sport ESPN HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31019
+#EXTINF:0,[ UK ] BT Sport Extra 1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31018
+#EXTINF:0,[ UK ] BT Sport Extra 2
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31017
+#EXTINF:0,[ UK ] BT Sport Extra 3
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31016
+#EXTINF:0,[ UK ] BT Sport Extra 4
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31015
+#EXTINF:0,[ UK ] BT Sport Extra 5
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31014
+#EXTINF:0,[ UK ] BT Sports 1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31013
+#EXTINF:0,[ UK ] BT Sports 3 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31012
+#EXTINF:0,[ UK ] CAPITAL TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31011
+#EXTINF:0,[ UK ] Cartoon Network
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31010
+#EXTINF:0,[ UK ] CBS Action
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31009
+#EXTINF:0,[ UK ] CBS Drama
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31008
+#EXTINF:0,[ UK ] CBS Reality
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31007
+#EXTINF:0,[ UK ] Channel 4
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31006
+#EXTINF:0,[ UK ] CHANNEL 5
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31005
+#EXTINF:0,[ UK ] Channel AKA
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31004
+#EXTINF:0,[ UK ] Chelsea TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31001
+#EXTINF:0,[ UK ] China History Channel
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/31000
+#EXTINF:0,[ UK ] Cinema Premiere (Beauty and the Beast 2017)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30999
+#EXTINF:0,[ UK ] Comedy Central
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30998
+#EXTINF:0,[ UK ] Discovery Channel
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30997
+#EXTINF:0,[ UK ] Discovery History
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30996
+#EXTINF:0,[ UK ] Discovery History  1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30995
+#EXTINF:0,[ UK ] Disney Junior
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30994
+#EXTINF:0,[ UK ] DRAMA
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30993
+#EXTINF:0,[ UK ] DW English
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30992
+#EXTINF:0,[ UK ] EDGE SPORT HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30990
+#EXTINF:0,[ UK ] Eir Sport 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30989
+#EXTINF:0,[ UK ] Eleven Sports 1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30988
+#EXTINF:0,[ UK ] Eleven Sports 2 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30987
+#EXTINF:0,[ UK ] EUROSPORT 1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30986
+#EXTINF:0,[ UK ] EuroSport 2
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30985
+#EXTINF:0,[ UK ] Film 4 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30984
+#EXTINF:0,[ UK ] FOX SD.
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30983
+#EXTINF:0,[ UK ] Gold TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30982
+#EXTINF:0,[ UK ] Good Food
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30981
+#EXTINF:0,[ UK ] HBO
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30980
+#EXTINF:0,[ UK ] HBO Comedy HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30979
+#EXTINF:0,[ UK ] HEART TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30978
+#EXTINF:0,[ UK ] History Channel
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30977
+#EXTINF:0,[ UK ] Hunting Channel
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30976
+#EXTINF:0,[ UK ] Insight HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30975
+#EXTINF:0,[ UK ] INVESTIGATION DISCOVERY
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30974
+#EXTINF:0,[ UK ] ITV 1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30973
+#EXTINF:0,[ UK ] ITV 2 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30972
+#EXTINF:0,[ UK ] ITV 3
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30971
+#EXTINF:0,[ UK ] ITV 4
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30970
+#EXTINF:0,[ UK ] ITV Box Office UK
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30969
+#EXTINF:0,[ UK ] Itv Encore
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30968
+#EXTINF:0,[ UK ] ITVBE
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30967
+#EXTINF:0,[ UK ] Kerrang!
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30966
+#EXTINF:0,[ UK ] Liverpool FC
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30964
+#EXTINF:0,[ UK ] Manchester United TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30962
+#EXTINF:0,[ UK ] More4
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30961
+#EXTINF:0,[ UK ] Movies 4 Men
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30960
+#EXTINF:0,[ UK ] Movies24
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30959
+#EXTINF:0,[ UK ] Movies4Man1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30958
+#EXTINF:0,[ UK ] Nat Geo Wild
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30948
+#EXTINF:0,[ UK ] National Geographic Channel
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30947
+#EXTINF:0,[ UK ] NIck JR
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30946
+#EXTINF:0,[ UK ] Nick JR 1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30945
+#EXTINF:0,[ UK ] Nick JR Peppa
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30944
+#EXTINF:0,[ UK ] Nickelodeon
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30943
+#EXTINF:0,[ UK ] NickToons
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30942
+#EXTINF:0,[ UK ] Premier Sports
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30941
+#EXTINF:0,[ UK ] Racing UK (Full HD)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30940
+#EXTINF:0,[ UK ] REALLY
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30939
+#EXTINF:0,[ UK ] RTE J.R
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30938
+#EXTINF:0,[ UK ] RTE NEWS
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30937
+#EXTINF:0,[ UK ] RTE One
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30936
+#EXTINF:0,[ UK ] RTE Two
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30935
+#EXTINF:0,[ UK ] Russia Today Documetary
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30934
+#EXTINF:0,[ UK ] Russia Today News
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30933
+#EXTINF:0,[ UK ] Scuzz
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30932
+#EXTINF:0,[ UK ] Setanta Sport
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30931
+#EXTINF:0,[ UK ] SKY Atlantic HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30930
+#EXTINF:0,[ UK ] Sky Box Nation
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30929
+#EXTINF:0,[ UK ] Sky Living
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30928
+#EXTINF:0,[ UK ] Sky MotoGP
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30927
+#EXTINF:0,[ UK ] Sky Movies  Premiere
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30926
+#EXTINF:0,[ UK ] Sky Movies Action
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30925
+#EXTINF:0,[ UK ] Sky Movies Action & Adventure HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30924
+#EXTINF:0,[ UK ] Sky Movies Comedy HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30923
+#EXTINF:0,[ UK ] Sky Movies Crime &Thriller HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30922
+#EXTINF:0,[ UK ] SKY Movies Disney HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30921
+#EXTINF:0,[ UK ] Sky Movies Drama & Romance
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30920
+#EXTINF:0,[ UK ] Sky Movies Drama & Romance.
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30919
+#EXTINF:0,[ UK ] Sky Movies Family HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30918
+#EXTINF:0,[ UK ] Sky Movies Greats HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30917
+#EXTINF:0,[ UK ] Sky Movies Hits Showcase HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30916
+#EXTINF:0,[ UK ] SKY Movies Premier HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30915
+#EXTINF:0,[ UK ] Sky Movies Sci-fi & Horror HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30914
+#EXTINF:0,[ UK ] Sky Movies Select
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30913
+#EXTINF:0,[ UK ] Sky One HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30912
+#EXTINF:0,[ UK ] Sky Sport 1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30911
+#EXTINF:0,[ UK ] SKY Sport 2
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30910
+#EXTINF:0,[ UK ] Sky Sport 2 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30909
+#EXTINF:0,[ UK ] Sky Sport 3
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30908
+#EXTINF:0,[ UK ] Sky Sport 3 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30907
+#EXTINF:0,[ UK ] Sky Sport 4
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30906
+#EXTINF:0,[ UK ] Sky Sport 5 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30905
+#EXTINF:0,[ UK ] Sky Sport F1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30904
+#EXTINF:0,[ UK ] SKY SPORTS ACTION HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30903
+#EXTINF:0,[ UK ] SKY SPORTS ARENA HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30902
+#EXTINF:0,[ UK ] Sky Sports Box Office  ( PPV LIVE During live Events )
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30901
+#EXTINF:0,[ UK ] SKY SPORTS CRICKET HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30900
+#EXTINF:0,[ UK ] SKY SPORTS F1 HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30899
+#EXTINF:0,[ UK ] SKY SPORTS FOOTBALL HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30898
+#EXTINF:0,[ UK ] SKY SPORTS GOLF HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30897
+#EXTINF:0,[ UK ] SKY SPORTS MAIN EVENT HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30896
+#EXTINF:0,[ UK ] SKY SPORTS MIX HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30895
+#EXTINF:0,[ UK ] SKY SPORTS NEWS HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30894
+#EXTINF:0,[ UK ] SKY SPORTS PREMIER LEAGUE HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30893
+#EXTINF:0,[ UK ] SKY SPORTS PREMIER LEAGUE HD (IRELAND)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30892
+#EXTINF:0,[ UK ] Sky Thriller
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30891
+#EXTINF:0,[ UK ] SKY Two HD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30890
+#EXTINF:0,[ UK ] SkySelect
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30889
+#EXTINF:0,[ UK ] SkyShowcase
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30888
+#EXTINF:0,[ UK ] Sony Max
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30887
+#EXTINF:0,[ UK ] Sony Movie
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30886
+#EXTINF:0,[ UK ] Sony Sab UK
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30885
+#EXTINF:0,[ UK ] SONY TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30884
+#EXTINF:0,[ UK ] Star Gold UK
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30883
+#EXTINF:0,[ UK ] Star LifeOK (hindi)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30882
+#EXTINF:0,[ UK ] STARZ TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30881
+#EXTINF:0,[ UK ] SYFY
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30880
+#EXTINF:0,[ UK ] TCM (film)
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30879
+#EXTINF:0,[ UK ] TLC-IRELAND
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30876
+#EXTINF:0,[ UK ] True Movies 1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30874
+#EXTINF:0,[ UK ] True Movies 2
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30873
+#EXTINF:0,[ UK ] TV Nasa
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30872
+#EXTINF:0,[ UK ] Watch
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30869
+#EXTINF:0,[ UK ] Yesterday TV
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30868
+#EXTINF:0,[ UK ]5 USA
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30867
+#EXTINF:0,[ UK ]Alibi
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30866
+#EXTINF:0,[ UK ]Animal Planet
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30865
+#EXTINF:0,[ UK ]At The Races
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30864
+#EXTINF:0,[ UK ]BBC Two
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30863
+#EXTINF:0,[ UK ]BBC_one
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30862
+#EXTINF:0,[ UK ]CBBC Three
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30861
+#EXTINF:0,[ UK ]Dave
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30860
+#EXTINF:0,[ UK ]Discovery
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30859
+#EXTINF:0,[ UK ]Discovery Home Health
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30858
+#EXTINF:0,[ UK ]Discovery Science
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30857
+#EXTINF:0,[ UK ]Discovery Turbo
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30856
+#EXTINF:0,[ UK ]Disney XD
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30855
+#EXTINF:0,[ UK ]Film 4
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30854
+#EXTINF:0,[ UK ]FOX
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30853
+#EXTINF:0,[ UK ]Life Time
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30852
+#EXTINF:0,[ UK ]PICK
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30851
+#EXTINF:0,[ UK ]Quest
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30850
+#EXTINF:0,[ UK ]Sky News
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30849
+#EXTINF:0,[ UK ]Sky Sports 1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30848
+#EXTINF:0,[ UK ]Sky Sports 2
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30847
+#EXTINF:0,[ UK ]Sky Sports 3
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30846
+#EXTINF:0,[ UK ]Sky Sports 4
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30845
+#EXTINF:0,[ UK ]Sky Sports 5
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30844
+#EXTINF:0,[ UK ]Sky Sports F1
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30843
+#EXTINF:0,[ UK ]TLC
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30842
+#EXTINF:0,[ UK ]Travel
+http://ares.dominium.tv:6923/YAyh8hxO3C/R4XWI8KQXY/30841
+
+########################  AM ##########################
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",53 [480p]
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Premium1
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1 group-title="Cartoon" tvg-id="" tvg-name="" tvg-logo="",Bazmoc [AM][480p]
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-id="" tvg-name="" tvg-logo="",Tuntunik
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Armenia Comedy [480p]
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",ATV Filmzone [480p]
+http://ott-cdn.ucom.am/s48/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Hay kino [480p]
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Kinoman ATV [480p]
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",Kinoman ATV [480p]
+http://ott-cdn.ucom.am/s66/04.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",ATV Kinoman [480p]
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-name="" tvg-logo="",ATV Kinoman [480p]
+http://ott-cdn.ucom.am/s94/index.m3u8
+
+############################  AR #########################################
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",13 MAX [720p]
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CANAL 3 PINAMAR DIGITAL [360p]
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CANAL 4 POSADAS [360p]
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CANAL 4 POSADAS [360p]
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CANAL 9 BIO BIO TV
+http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CANAL 9 SALTA
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CANAL PROVINCIAL SAN MIGUEL [360p]
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CANAL PROVINCIAL SAN MIGUEL [360p]
+http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Channel 10 Río Negro [720p]
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",DESIERTO TV
+http://unlimited6-cl.dps.live/desiertotv/desiertotv.smil/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",DJ LONCHO TV
+http://stmv4.srvstm.com/alonsodavid4349/alonsodavid4349/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Power HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",RTN TV
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TELEMICRO 5
+http://stream.grupotelemicro.com/5.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TELERED
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TLX HD ARG
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TLX HD
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-id="" tvg-name="" tvg-logo="",Urbano 106.1 FM Pehuajo
+http://ar.solumedia.com.ar:1935/2/myStream/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",Music Top [720p]
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",Music Top [720p]
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",Music Top [720p]
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",CANAL 26 [360p]
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",CANAL 26 [360p]
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",CANAL 26 [720p]
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",CANAL 26 [720p]
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+######################## ARRABIC  #########################
+
+#EXTINF:-1,Aljazeera HD
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11653
+#EXTINF:-1,Aljazeera
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11652
+#EXTINF:-1,Aljazeera Mubasher
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11651
+#EXTINF:-1,Alarabya
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11650
+#EXTINF:-1,Alarabiya Alhadath
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11649
+#EXTINF:-1,Alaraby 1
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11648
+#EXTINF:-1,Elsharq
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11647
+#EXTINF:-1,FRANCE 24
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11646
+#EXTINF:-1,Saudi Alikhbaria
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11645
+#EXTINF:-1,BBC Arabia
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11644
+#EXTINF:-1,DW Arabic
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11643
+#EXTINF:-1,Orient News TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11642
+#EXTINF:-1,Syria Al Ekhbarea
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11641
+#EXTINF:-1,ANN News
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11640
+#EXTINF:-1,Alaan
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11639
+#EXTINF:-1,ALMAYADEEN TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11638
+#EXTINF:-1,ALALAM
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11637
+#EXTINF:-1,Alsharqiya News
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11636
+#EXTINF:-1,CNBC Arabic
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11635
+#EXTINF:-1,CGTN ARABIC
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11634
+#EXTINF:-1,Euro News
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11633
+#EXTINF:-1,Mekameleen TV 2
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11632
+#EXTINF:-1,SKY NEWS
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11631
+#EXTINF:-1,RUSIA TODAY
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11630
+#EXTINF:-1,Aljazeera Doc
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11629
+#EXTINF:-1,Altejah
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11628
+#EXTINF:-1,TRT
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11627
+#EXTINF:-1,Bein Dream Works
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11626
+#EXTINF:-1,Toyor Aljanah
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11625
+#EXTINF:-1,Toyor Baby
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11624
+#EXTINF:-1,CN Arabia
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11623
+#EXTINF:-1,Nat Geo Kids
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11622
+#EXTINF:-1,AjyalTV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11621
+#EXTINF:-1,Atfal Mawaheb
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11620
+#EXTINF:-1,Jeem TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11619
+#EXTINF:-1,Karameesh
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11618
+#EXTINF:-1,Space toon
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11617
+#EXTINF:-1,Shaun The sheep
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11616
+#EXTINF:-1,Teletubbies
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11615
+#EXTINF:-1,Tom And Jery
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11614
+#EXTINF:-1,Mr Bean TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11613
+#EXTINF:-1,Baraeem
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11612
+#EXTINF:-1,Baraem 2
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11611
+#EXTINF:-1,MAJID
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11610
+#EXTINF:-1,Bkra Ahlaa
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11609
+#EXTINF:-1,Esh Almajanin
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11608
+#EXTINF:-1,Ghazalan Fi Ghabat Aldhiab
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11607
+#EXTINF:-1,Golden
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11606
+#EXTINF:-1,Golden 2
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11605
+#EXTINF:-1,Harun
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11604
+#EXTINF:-1,Kasr Alkhawatir
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11603
+#EXTINF:-1,Sibaya 1
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11602
+#EXTINF:-1,Sibaya 2
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11601
+#EXTINF:-1,Sibaya 3
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11600
+#EXTINF:-1,Sibaya 4
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11599
+#EXTINF:-1,Sibaya 5
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11598
+#EXTINF:-1,Mazad Alany
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11597
+#EXTINF:-1,Yawmiat Mudir Eam 1
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11596
+#EXTINF:-1,HALA BOLLYWOOD
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11595
+#EXTINF:-1,HALA DRAMA
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11594
+#EXTINF:-1,HALA MIX
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11593
+#EXTINF:-1,HALA MOVIES
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11592
+#EXTINF:-1,HALA SERIES
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11591
+#EXTINF:-1,HALA TURK
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11590
+#EXTINF:-1,S7T Aflam HD
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11589
+#EXTINF:-1,S7T Anime
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11588
+#EXTINF:-1,S7T Bollywood
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11587
+#EXTINF:-1,S7T Cartoon
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11586
+#EXTINF:-1,S7T CLASSIC
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11585
+#EXTINF:-1,S7T Documentaire
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11584
+#EXTINF:-1,S7T Hits HD
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11583
+#EXTINF:-1,S7T Movies HD
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11582
+#EXTINF:-1,S7T Music HD
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11581
+#EXTINF:-1,S7T Series
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11580
+#EXTINF:-1,S7T Sport HD
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11579
+#EXTINF:-1,S7T Tourisme
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11578
+#EXTINF:-1,S7T Turk
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11577
+#EXTINF:-1,Mody Kids
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11518
+#EXTINF:-1,Noon
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11517
+#EXTINF:-1,Taha
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11516
+#EXTINF:-1,Syria
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11515
+#EXTINF:-1,LANA
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11514
+#EXTINF:-1,LANA   TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11513
+#EXTINF:-1,Syria Aloula
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11512
+#EXTINF:-1,Syria Drama
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11511
+#EXTINF:-1,Sama Syria
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11510
+#EXTINF:-1,Syria Medical
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11509
+#EXTINF:-1,Syriaa TV HD
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11508
+#EXTINF:-1,Syria Educational
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11506
+#EXTINF:-1,Nabd Syria
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11505
+#EXTINF:-1,SYRIA FM
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11507
+#EXTINF:-1,Free Syria
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11504
+#EXTINF:-1,HalabToday
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11503
+#EXTINF:-1,Aljesr
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11502
+#EXTINF:-1,MARAH TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11501
+#EXTINF:-1,Alqanat 9
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11500
+#EXTINF:-1,LBC 2
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11498
+#EXTINF:-1,LBC SAT
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11499
+#EXTINF:-1,Aljadeed
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11497
+#EXTINF:-1,Lebanon
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11496
+#EXTINF:-1,MTV Lebanon
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11495
+#EXTINF:-1,Future
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11494
+#EXTINF:-1,Ldc
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11493
+#EXTINF:-1,Almanar
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11492
+#EXTINF:-1,OTV Lebanon
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11491
+#EXTINF:-1,NBN HD
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11490
+#EXTINF:-1,Imagine Movies
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11489
+#EXTINF:-1,MEIE TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11488
+#EXTINF:-1,HEYA
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11487
+#EXTINF:-1,Zee Aflam
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11486
+#EXTINF:-1,Zee Alwan
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11485
+#EXTINF:-1,2M MAROC
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11065
+#EXTINF:-1,Aloula Inter
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11063
+#EXTINF:-1,Aloula Maroc
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11064
+#EXTINF:-1,AFLAM 7 Maroc
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11062
+#EXTINF:-1,AlMaghribia
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11061
+#EXTINF:-1,Arriadia
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11060
+#EXTINF:-1,Arriadia HD
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11059
+#EXTINF:-1,Arryadia TNT
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11058
+#EXTINF:-1,Arrabiaa MAROC
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11057
+#EXTINF:-1,Tamazight
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11056
+#EXTINF:-1,TELE MAROC
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11055
+#EXTINF:-1,Al Ons
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11054
+#EXTINF:-1,Assadissa
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11053
+#EXTINF:-1,GM Aflam
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11052
+#EXTINF:-1,GM Afro Hit
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11040
+#EXTINF:-1,GM Chaabi
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11051
+#EXTINF:-1,GM COMEDIA
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11050
+#EXTINF:-1,GM DOCUMENTAIRE
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11049
+#EXTINF:-1,GM Drama
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11048
+#EXTINF:-1,GM HIT AFRO
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11047
+#EXTINF:-1,GM Katakit
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11046
+#EXTINF:-1,GM Music
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11045
+#EXTINF:-1,GM Music HD
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11038
+#EXTINF:-1,GM Muzicana
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11037
+#EXTINF:-1,GM News
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11036
+#EXTINF:-1,GM Quran
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11044
+#EXTINF:-1,GM Rap Arab
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11043
+#EXTINF:-1,GM Tamazight
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11042
+#EXTINF:-1,GM Techno
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11041
+#EXTINF:-1,TUNISIE NAT 1
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11035
+#EXTINF:-1,TUNISIE NAT 2
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11034
+#EXTINF:-1,TUNISNA
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11032
+#EXTINF:-1,Mosaique FM
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11033
+#EXTINF:-1,AlHiwar Ettounsi
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11031
+#EXTINF:-1,NISSMA TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11030
+#EXTINF:-1,M TUNISIA
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11029
+#EXTINF:-1,Telvza TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11028
+#EXTINF:-1,ATTESSIA
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11027
+#EXTINF:-1,HANNIBAL
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11026
+#EXTINF:-1,Zitouna
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11025
+#EXTINF:-1,Medi 1 Sat
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11024
+#EXTINF:-1,Aljanoubiya
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11023
+#EXTINF:-1,Echorouk Benna
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11021
+#EXTINF:-1,Echorouk TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11022
+#EXTINF:-1,ECHOUROUK NEWS
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11020
+#EXTINF:-1,A3
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11019
+#EXTINF:-1,ALGERIA A3
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11018
+#EXTINF:-1,ALGERIA CORAN
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11017
+#EXTINF:-1,Dzaier News
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11014
+#EXTINF:-1,Dzair HD
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11015
+#EXTINF:-1,Canal TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11013
+#EXTINF:-1,ENTV TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11012
+#EXTINF:-1,ALHaddaf
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11011
+#EXTINF:-1,BERBERE TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11010
+#EXTINF:-1,BEUR TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11009
+#EXTINF:-1,Ennahar Algerie
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11008
+#EXTINF:-1,SAMIRA TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11007
+#EXTINF:-1,NUMIDIA TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11006
+#EXTINF:-1,KBC Algeria
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11005
+#EXTINF:-1,Beladi
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11004
+#EXTINF:-1,Amhara
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11003
+#EXTINF:-1,Carthage
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11002
+#EXTINF:-1,SUDAN
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11001
+#EXTINF:-1,Sudan 24
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10999
+#EXTINF:-1,Sudan Drama
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11000
+#EXTINF:-1,Sudan Music
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10998
+#EXTINF:-1,Om Drman
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10997
+#EXTINF:-1,Alkhartom
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10996
+#EXTINF:-1,Alshrooq TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10995
+#EXTINF:-1,Bntv
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10994
+#EXTINF:-1,Radio Dabnka
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10993
+#EXTINF:-1,Africa 1
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10992
+#EXTINF:-1,Africa 2
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10991
+#EXTINF:-1,Libya 218
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10984
+#EXTINF:-1,Libya 218 News
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10983
+#EXTINF:-1,Libya Al Ahrar HD
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10990
+#EXTINF:-1,Libya Al Ahrar SD
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10989
+#EXTINF:-1,LIBYA AL HADATH
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10981
+#EXTINF:-1,Libya Aljamahiriya
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10976
+#EXTINF:-1,LIBYA Almarsad
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10980
+#EXTINF:-1,Libya Alnabaa. tv
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10988
+#EXTINF:-1,Libya Altansuh
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10978
+#EXTINF:-1,LIBYA Alwatan
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10986
+#EXTINF:-1,Libya Future TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10985
+#EXTINF:-1,LIBYA HD
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10982
+#EXTINF:-1,Libya Panorama
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10987
+#EXTINF:-1,LIBYA RASMIA
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10979
+#EXTINF:-1,Libya Sport
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10975
+#EXTINF:-1,LIBYA WAAD FM
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10977
+#EXTINF:-1,Abu Dhabi Drama
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10973
+#EXTINF:-1,Abu Dhabi TV HD
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10974
+#EXTINF:-1,Alemarat
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10972
+#EXTINF:-1,AD Nat Geo
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10971
+#EXTINF:-1,DUBAI TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10970
+#EXTINF:-1,DUBAI DRAMA
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10969
+#EXTINF:-1,DUBAI ONE
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10968
+#EXTINF:-1,SAMA DUBAI
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10967
+#EXTINF:-1,Dubai Zaman
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10966
+#EXTINF:-1,ROYA TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10965
+#EXTINF:-1,Ajman
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10964
+#EXTINF:-1,Qatar
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10963
+#EXTINF:-1,Qatar Today
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10962
+#EXTINF:-1,AlRayyan
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10961
+#EXTINF:-1,ALRAYAN 2
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10960
+#EXTINF:-1,Alrai
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10959
+#EXTINF:-1,Quest Arabiya
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10958
+#EXTINF:-1,Fujairah
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10957
+#EXTINF:-1,ALSHARJAH
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10956
+#EXTINF:-1,BAHRAIN
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10955
+#EXTINF:-1,BAHRAIN International
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10954
+#EXTINF:-1,OMAN 1
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10953
+#EXTINF:-1,OMAN 2
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10952
+#EXTINF:-1,OMAN 3
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10951
+#EXTINF:-1,OMAN 4
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10950
+#EXTINF:-1,Funoon
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10949
+#EXTINF:-1,Kuwait 1
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10948
+#EXTINF:-1,Kuwait 2
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10947
+#EXTINF:-1,Kuwait Alarabi
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10946
+#EXTINF:-1,Kuwait Alqarin
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10945
+#EXTINF:-1,Kuwait Ethraa
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10944
+#EXTINF:-1,Kuwait Plus
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10943
+#EXTINF:-1,Saudi 1
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10941
+#EXTINF:-1,Saudia 2
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10939
+#EXTINF:-1,Saudi 24
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10938
+#EXTINF:-1,SBC
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10940
+#EXTINF:-1,S 24
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10937
+#EXTINF:-1,Jordan TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10936
+#EXTINF:-1,A1 Jordan
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10934
+#EXTINF:-1,Sama Jordan
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10935
+#EXTINF:-1,Noor Jordan
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10933
+#EXTINF:-1,ZWEINA BALADNA
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10932
+#EXTINF:-1,Alfalastiniah
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10931
+#EXTINF:-1,Awdeh
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10930
+#EXTINF:-1,PALESTINE
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10929
+#EXTINF:-1,Palestine Today
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10928
+#EXTINF:-1,Alaqsaa
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10927
+#EXTINF:-1,QUDS
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10926
+#EXTINF:-1,Musawa
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10925
+#EXTINF:-1,Maan
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10924
+#EXTINF:-1,NOUR MUSIC
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10923
+#EXTINF:-1,Nour Sat
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10919
+#EXTINF:-1,NOURSAT ALSHARQ
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10922
+#EXTINF:-1,Noursat Alshbab
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10918
+#EXTINF:-1,Noursat Kodas
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10920
+#EXTINF:-1,NOURSAT MARIAM
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10921
+#EXTINF:-1,Suryoyo Sat
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10917
+#EXTINF:-1,ABN SAT
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10916
+#EXTINF:-1,ABN SAT 2
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10915
+#EXTINF:-1,C SAT
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10914
+#EXTINF:-1,CTV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10913
+#EXTINF:-1,Logos
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10912
+#EXTINF:-1,Sat 7 Arabic
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10911
+#EXTINF:-1,Sat 7 Kids
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10910
+#EXTINF:-1,The Way
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10909
+#EXTINF:-1,Aghapy TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10908
+#EXTINF:-1,Atv Sat
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10907
+#EXTINF:-1,Csat 2
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10906
+#EXTINF:-1,Karma TV
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10905
+#EXTINF:-1,Cyc 2
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10904
+#EXTINF:-1,Alkalema
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10903
+#EXTINF:-1,Allman
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10902
+#EXTINF:-1,Daawah
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10901
+#EXTINF:-1,Almajd 1
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11228
+#EXTINF:-1,CANAL ALGERIE
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/11016
+#EXTINF:-1,Ghad Moshrek
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10942
+#EXTINF:-1,LTC
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10900
+#EXTINF:-1,Mecca Quran
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10899
+#EXTINF:-1,Wanasah
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10898
+#EXTINF:-1,ZAD
+http://gold.4khdiptv.com:8080/aydin1234/aydin1234/10897
+
+###################  AT  ##############################
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ORF 2 HD
+https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ORF 2 HD
+https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest_2.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ORF 2 HD
+https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest_4.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ORF 2 HD
+https://orf2.cdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",KRONEHIT TV HD [1080p]
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",KRONEHIT TV HD [1080p]
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",KRONEHIT TV HD [1080p]
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",KRONEHIT TV HD [720p]
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+
+####################  AU ###########################
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",2UE SYDNEY [EN][720p]
+http://syd2uevid-lh.akamaihd.net/i/sydneyuevid_1@110994/index_500_av-p.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ABC Jazz
+http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ABC Radio Canberra
+http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",GABRUU TV 
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",SABRANG CHANNEL
+http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",VISION 4
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1 group-title="Business" tvg-id="" tvg-name="" tvg-logo="",Bloomberg Australia [720p]
+https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/aus_live.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="" tvg-name="" tvg-logo="",CGTN Documentary [EN][576p]
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-id="" tvg-name="" tvg-logo="",CGTN Documentary [EN][576p]
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",ABC News [576p]
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
+#EXTINF:-1 group-title="Radio" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/3awlogo.jpg",3AW Melbourne
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+#EXTINF:-1 group-title="Radio" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_brisbane.png",4BC Brisbane
+http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+#EXTINF:-1 group-title="Shop" tvg-id="" tvg-name="" tvg-logo="",EXPO CHANNEL [EN][360p]
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+#EXTINF:-1 group-title="Shop" tvg-id="" tvg-name="" tvg-logo="",TVSN
+http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",7 HD [360p]
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+
+
+###############################  AZ  ################################
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ATV
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",ATV
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",MUZ TV [576p]
+http://85.132.78.6:1935/live/muztv.stream/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",MUZ TV [576p]
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
+
+#############################  BA  ####################################
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",A1 Balkan HD [1080p]
+http://178.132.6.97:8080/A1Balkan1/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",A1 Balkan HD
+http://178.132.6.97:80/A1Balkan1/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",A1 Bosnia HD [1080p]
+http://178.132.6.97:8080/A1Bosnia1/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",A1 Espana HD
+http://178.132.6.97:8080/canal11madrid1/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",A1 ISLAM HD [1080p]
+http://178.132.6.97:8080/imltvhd1/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",A1 Media TV HD [720p]
+http://178.132.6.97:8080/A1MediaTV1/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",A1 Sports
+http://178.132.6.97:80/A1Sport1/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",A1 ????j? HD [576p]
+http://178.132.6.97:8080/A1Srbija1/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",K3 Prnjavor [720p]
+http://178.132.6.97:8080/k3tv1/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",PRIMERA HD Music
+http://178.132.6.97:8080/TVPlisi1/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Primera Music
+http://178.132.6.97:8080/PrimeraMusic1/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Primera Music
+http://178.132.6.97:8080/PrimeraMusic1/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",RTV 7 Tuzla
+http://178.132.6.97:8080/TV7TUZLA1/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",RTV Bugojno
+http://178.132.6.97:8080/TVBugojno1/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",RTV TK
+http://178.132.6.97:8080/TVTK1/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",RTV Vikom [288p]
+http://178.132.6.97:8080/a1vikom1/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",SLON Extra
+http://178.132.6.97:8080/RTV:SLON1/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TELEVIZIJA 5
+http://37.59.21.217:8809/live/tv5web.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TUZLANSKI KANTON
+http://178.132.6.97:8080/TVTK1/index.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV Vogosca
+http://178.132.6.97:8080/TVVogosca1/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TVSA HD
+http://178.132.6.97:8080/BA:TVSarajevo1/playlist.m3u8
+#EXTINF:-1 group-title="CCTV" tvg-id="" tvg-name="" tvg-logo="",RTV Zenica
+http://178.132.6.97:8080/RTVZenica1/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",A1 Espana HD [1080p]
+http://178.132.6.97:8080/A1Espana1/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",A1 Exclusive HD [1080p]
+http://178.132.6.97:8080/A1Exclusive1/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",A1 World HD [576p]
+http://178.132.6.97:8080/A1World1/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",PRIMERA HD Music
+http://178.132.6.97:8080/RTVCAZIN1/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",AL JAZEERA BALKANS [1080p]
+http://178.132.6.97:/JazzeraAL1/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="News" tvg-id="" tvg-name="" tvg-logo="",AL JAZEERA BALKANS [360p]
+http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
+#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",A1 Sports HD [720p]
+http://178.132.6.97:8080/A1Sport1/index.m3u8
