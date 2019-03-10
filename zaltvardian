@@ -203,14 +203,6 @@ http://209.58.177.31:8081/live/gratis/untuk_semua/21.ts
 http://209.58.177.31:8081/live/gratis/untuk_semua/22.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport3 INDO
 http://209.58.177.31:8081/live/gratis/untuk_semua/23.ts
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/53a1b62ee4b037955eb402bb/53ac3b66e4b0b2e81ba57955/53bc109ce4b065e0b429af95/1404833949549/MKC_logo.jpg" group-title="Sport", MKCSPORT
-http://185-8-178-140.livesports24.online/mpremierrus.m3u8
-#EXTINF:1 tvg-logo="https://static1.squarespace.com/static/53a1b62ee4b037955eb402bb/53ac3b66e4b0b2e81ba57955/53bc109ce4b065e0b429af95/1404833949549/MKC_logo.jpg" group-title="Sport",MKCSPORT 1
-https://185-8-178-139.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:1 tvg-logo="https://static1.squarespace.com/static/53a1b62ee4b037955eb402bb/53ac3b66e4b0b2e81ba57955/53bc109ce4b065e0b429af95/1404833949549/MKC_logo.jpg" group-title="Sport",MKCSPORT2
-http://185-8-178-140.livesports24.online/mfootball2rus.m3u8
-#EXTINF:1 tvg-logo="https://static1.squarespace.com/static/53a1b62ee4b037955eb402bb/53ac3b66e4b0b2e81ba57955/53bc109ce4b065e0b429af95/1404833949549/MKC_logo.jpg" group-title="Sport",MKCSPORT3
-http://185-8-178-140.livesports24.online/rumatchf3.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png/revision/latest?cb=20181111072911" group-title="Sport",SUPER SOCCER
 http://210.210.155.35/uq2663/h/h20/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.grouponcdn.com/deal/2B72J2UuXYBTYk13cbrWR5FUHtsz/2B-1000x600/v1/c700x420.jpg" group-title="Sport",BT Sport 1 HD
