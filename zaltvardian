@@ -215,6 +215,12 @@ http://185-8-178-139.livesports24.online/btsportsport2.m3u8
 http://ott-cdn.ucom.am/s82/03.m3u8
 #EXTINF:-1 tvg-logo="https://allsport.site/uploads/posts/2017-05/1496076533_pic_ch120-1-.jpg" group-title="Sport",SENTANA SPORT
 http://ott-cdn.ucom.am/s81/03.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport1 INDO 
+http://209.58.177.31:8081/live/gratis/untuk_semua/21.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport2 INDO
+http://209.58.177.31:8081/live/gratis/untuk_semua/22.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport3 INDO
+http://209.58.177.31:8081/live/gratis/untuk_semua/23.ts
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport_1_HD_FULL_1
 http://2111.space:25461/admin_571497/mtorQy3F/1336
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport_2_HD_FULL_1
@@ -337,6 +343,12 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
 
 ############################### KNOWLEDGE #################################
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KNOWLEDGE",natgeo indo
+http://209.58.177.31:8081/live/gratis/untuk_semua/24.ts
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KNOWLEDGE",NatGeoPeople indo
+http://209.58.177.31:8081/live/gratis/untuk_semua/25.ts
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KNOWLEDGE",NatGeoWild indo
+http://209.58.177.31:8081/live/gratis/untuk_semua/26.ts
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KNOWLEDGE",natgeo
 http://103.205.133.14/hls/natgeo.m3u8
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KNOWLEDGE",Fish Channel
