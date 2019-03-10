@@ -210,7 +210,7 @@ http://183.230.80.11:80/ysten-business/live/cctv-5/1.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png/revision/latest?cb=20181111072911" group-title="Sport",SUPER SOCCER
 http://210.210.155.35/uq2663/h/h20/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.grouponcdn.com/deal/2B72J2UuXYBTYk13cbrWR5FUHtsz/2B-1000x600/v1/c700x420.jpg" group-title="Sport",BT Sport 1 HD
-http://117.169.72.6:8080/ysten-businessmobile/live/cctv-5/1.m3u8
+http://185-125-230-172.livesports24.online/btsportone.m3u8
 #EXTINF:-1 tvg-logo="https://img.grouponcdn.com/deal/2B72J2UuXYBTYk13cbrWR5FUHtsz/2B-1000x600/v1/c700x420.jpg" group-title="Sport",BT Sport 2 HD
 http://185-8-178-139.livesports24.online/btsportsport2.m3u8
 #EXTINF:-1 tvg-logo="https://allsport.site/uploads/posts/2017-05/1496076533_pic_ch120-1-.jpg" group-title="Sport",SENTANA SPORT+
