@@ -193,16 +193,10 @@ https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.co
 http://cdn7.woideas.com/tv11.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 1 INDO
 rtmp://118.97.96.17:1935/discover/beib1_4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 1 INDO HD
-http://209.58.177.31:8081/live/gratis/untuk_semua/18.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 2 INDO
 rtmp://118.97.96.17:1935/discover/beib2_4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 2 INDO HD
-http://209.58.177.31:8081/live/gratis/untuk_semua/19.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 3 IND0
 rtmp://118.97.96.17:1935/discover/beib3_4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 3 IND0 HD
-http://209.58.177.31:8081/live/gratis/untuk_semua/20.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport1 INDO 
 http://209.58.177.31:8081/live/gratis/untuk_semua/21.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport2 INDO 
@@ -211,8 +205,6 @@ http://209.58.177.31:8081/live/gratis/untuk_semua/22.ts
 http://209.58.177.31:8081/live/gratis/untuk_semua/23.ts
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-iA2FW8UW7dA/V4xXhJ-_kiI/AAAAAAAACAw/Yq33K4FNpOgjnOtblcaZJiaINSWQLOvIACLcB/s400/cctv5-vpn-china.png" group-title="Sport",CCTV5+
 http://cdn10.uhd4khdr.com/5jia.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-iA2FW8UW7dA/V4xXhJ-_kiI/AAAAAAAACAw/Yq33K4FNpOgjnOtblcaZJiaINSWQLOvIACLcB/s400/cctv5-vpn-china.png" group-title="Sport",CCTV5 FULHD
-http://183.230.80.11:80/ysten-business/live/cctv-5/1.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png/revision/latest?cb=20181111072911" group-title="Sport",SUPER SOCCER
 http://210.210.155.35/uq2663/h/h20/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.grouponcdn.com/deal/2B72J2UuXYBTYk13cbrWR5FUHtsz/2B-1000x600/v1/c700x420.jpg" group-title="Sport",BT Sport 1 HD
