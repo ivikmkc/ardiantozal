@@ -205,9 +205,9 @@ rtmp://118.97.96.17:1935/discover/beib3_4
 http://209.58.177.31:8081/live/gratis/untuk_semua/20.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport1 INDO 
 http://209.58.177.31:8081/live/gratis/untuk_semua/21.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport2 INDO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport2 INDO 
 http://209.58.177.31:8081/live/gratis/untuk_semua/22.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport3 INDO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport3 INDO 
 http://209.58.177.31:8081/live/gratis/untuk_semua/23.ts
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-iA2FW8UW7dA/V4xXhJ-_kiI/AAAAAAAACAw/Yq33K4FNpOgjnOtblcaZJiaINSWQLOvIACLcB/s400/cctv5-vpn-china.png" group-title="Sport",CCTV5+
 http://cdn10.uhd4khdr.com/5jia.m3u8
