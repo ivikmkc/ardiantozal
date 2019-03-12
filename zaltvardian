@@ -196,12 +196,18 @@ rtmp://118.97.96.17:1935/discover/beib1_4
 rtmp://118.97.96.17:1935/discover/beib2_4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 3 INDO
 rtmp://118.97.96.17:1935/discover/beib3_4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport1 INDO 
-http://209.58.177.31:8081/live/gratis/untuk_semua/21.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport2 INDO 
-http://209.58.177.31:8081/live/gratis/untuk_semua/22.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport3 INDO 
-http://209.58.177.31:8081/live/gratis/untuk_semua/23.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 1 HD 
+rtmp://118.97.96.17:1935/discover/foxsport1_4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 1 SD
+rtmp://118.97.96.17:1935/discover/foxsport2_3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 2 HD
+rtmp://118.97.96.17:1935/discover/foxsport2_4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 2 SD
+rtmp://118.97.96.17:1935/discover/foxsport2_3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 3 HD
+rtmp://118.97.96.17:1935/discover/foxsport3_4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 3 SD
+rtmp://118.97.96.17:1935/discover/foxsport3_3
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-iA2FW8UW7dA/V4xXhJ-_kiI/AAAAAAAACAw/Yq33K4FNpOgjnOtblcaZJiaINSWQLOvIACLcB/s400/cctv5-vpn-china.png" group-title="Sport",CCTV5+
 http://cdn10.uhd4khdr.com/5jia.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png/revision/latest?cb=20181111072911" group-title="Sport",SUPER SOCCER
