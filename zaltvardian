@@ -199,7 +199,7 @@ rtmp://118.97.96.17:1935/discover/beib3_4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 1 HD 
 rtmp://118.97.96.17:1935/discover/foxsport1_4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 1 SD
-rtmp://118.97.96.17:1935/discover/foxsport2_3
+rtmp://118.97.96.17:1935/discover/foxsport1_3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 2 HD
 rtmp://118.97.96.17:1935/discover/foxsport2_4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 2 SD
