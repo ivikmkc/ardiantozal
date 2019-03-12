@@ -342,11 +342,11 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
 
 ############################### KNOWLEDGE #################################
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KNOWLEDGE",natgeo indo
-http://209.58.177.31:8081/live/gratis/untuk_semua/24.ts
+rtmp://118.97.96.17:1935/discover/natgeo_4
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KNOWLEDGE",NatGeoPeople indo
-http://209.58.177.31:8081/live/gratis/untuk_semua/25.ts
+rtmp://118.97.96.17:1935/discover/natgeopeople_4
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KNOWLEDGE",NatGeoWild indo
-http://209.58.177.31:8081/live/gratis/untuk_semua/26.ts
+rtmp://118.97.96.17:1935/discover/natgeowild_4
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KNOWLEDGE",natgeo
 http://103.205.133.14/hls/natgeo.m3u8
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KNOWLEDGE",Fish Channel
