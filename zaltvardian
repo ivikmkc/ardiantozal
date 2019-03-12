@@ -196,8 +196,6 @@ rtmp://118.97.96.17:1935/discover/beib1_4
 rtmp://118.97.96.17:1935/discover/beib2_4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 3 INDO
 rtmp://118.97.96.17:1935/discover/beib3_4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="Sport",SUPERSPORT 3
-http://209.58.177.31:8081/live/gratis/untuk_semua/61.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport1 INDO 
 http://209.58.177.31:8081/live/gratis/untuk_semua/21.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport2 INDO 
@@ -248,6 +246,8 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
 #EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="Sport",Abu Dhabi Sports 6
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="Sport",SUPERSPORT 3
+http://209.58.177.31:8081/live/gratis/untuk_semua/61.ts
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="Sport",Fight sport
 http://210.210.155.35/session/ff569f46-2f90-11e9-b351-b82a72d63267/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport",TVRI SPORT
