@@ -194,9 +194,9 @@ http://cdn7.woideas.com/tv11.m3u8
 rtmp://118.97.96.17:1935/discover/beib1_4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 1 INDO SD
 rtmp://118.97.96.17:1935/discover/beib1_3
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 2 INDO SD
-rtmp://118.97.96.17:1935/discover/beib2_4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 2 INDO HD
+rtmp://118.97.96.17:1935/discover/beib2_4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 2 INDO SD
 rtmp://118.97.96.17:1935/discover/beib2_3
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 3 INDO HD
 rtmp://118.97.96.17:1935/discover/beib3_4
