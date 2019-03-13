@@ -13,7 +13,7 @@ http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=0
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL",GLOBAL TV HD
 http://202.80.222.174/000001/2/ch14041511505498448705/1001.m3u8?IASHttpSessionId=OTT293920190217215221334270&ztecid=ch14041511505498448705&bandwidth=1100904&ispcode=1&timeformat=local&channel=ch14041511505498448705&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMDMvMTAyNC5tM3U4&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com&virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="LOKAL",RCTI
-https://cdn-livetv3.metube.id/hls/eplrcti_480/index.m3u8
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="LOKAL",RCTI HD
 http://id8.indostreamingtv.com/live/tv66/index.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png" group-title="LOKAL",INDOSIAR
