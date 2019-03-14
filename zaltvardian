@@ -25,9 +25,9 @@ http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=0
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_sctv_big1.png" group-title="LOKAL",SCTV HD
 http://id2.indostreamingtv.com/live/tv2/index.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="LOKAL",ANTV
-http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+http://210.210.155.35/session/7fd33922-46b1-11e9-b863-c81f66f89318/qwr9ew/s/s102/01.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="LOKAL",TRANS 7
-http://210.210.155.35/qwr9ew/s/s06/01.m3u8
+http://210.210.155.35/session/9d3ac1c4-46b1-11e9-83d2-b82a72d63267/qwr9ew/s/s101/01.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="LOKAL",TRANS 7 HD
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="LOKAL",TVONE
