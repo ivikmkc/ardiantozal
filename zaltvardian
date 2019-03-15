@@ -260,8 +260,14 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
 #EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="Sport",Abu Dhabi Sports 6
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/76/Astro_supersport.jpg" group-title="Sport",SUPERSPORT 3
-http://209.58.177.31:8081/live/gratis/untuk_semua/61.ts
+#EXTINF:0,Roma TV
+http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/60
+#EXTINF:0,Inter Channel
+http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/118
+#EXTINF:0,Lazio Style Ch
+http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/110
+#EXTINF:0,Milan TV
+http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/106
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="Sport",Fight sport
 http://210.210.155.35/session/ff569f46-2f90-11e9-b351-b82a72d63267/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport",TVRI SPORT
