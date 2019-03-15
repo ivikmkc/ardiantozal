@@ -227,25 +227,25 @@ http://ott-cdn.ucom.am/s82/03.m3u8
 #EXTINF:-1 tvg-logo="https://allsport.site/uploads/posts/2017-05/1496076533_pic_ch120-1-.jpg" group-title="Sport",SENTANA SPORT
 http://ott-cdn.ucom.am/s81/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 1
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29377
+http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/12048
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 2
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29376
+http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/12038
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 3
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29375
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 4
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29374
+http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/12035
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 5
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29373
+http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/12033
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 6
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29372
+http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/12031
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 7
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29371
+http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/12028
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 8
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29370
+http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/12026
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 9
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29369
+http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/12024
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 10
-http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29368
+http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/12046
 #EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="Sport", ABU DHABI SPORT
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="Sport",ABU DHABI SPORT 2
@@ -276,10 +276,6 @@ https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/01.m3u8
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/01.m3u8
 
 ########################### MUSIC ##################################
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="MUSIC",Tmusic
-http://209.58.177.31:8081/live/gratis/untuk_semua/27.ts
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="MUSIC",Pramborstv
-http://209.58.177.31:8081/live/gratis/untuk_semua/28.ts
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="MUSIC",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="MUSIC",MK TV
@@ -347,8 +343,6 @@ rtmp://118.97.96.17:1935/discover/natgeo_4
 rtmp://118.97.96.17:1935/discover/natgeopeople_4
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KNOWLEDGE",NatGeoWild indo
 rtmp://118.97.96.17:1935/discover/natgeowild_4
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KNOWLEDGE",natgeo
-http://103.205.133.14/hls/natgeo.m3u8
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KNOWLEDGE",Fish Channel
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KNOWLEDGE",Foodie Channel
