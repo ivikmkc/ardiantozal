@@ -259,6 +259,25 @@ https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport",MU TV
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/01.m3u8
 
+################################# FEED SPORT ##################################
+
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport1
+https://storage.tumarcador.xyz/t1/live.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport2
+https://storage.tumarcador.xyz/t3/live.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport3
+https://storage.tumarcador.xyz/t7/live.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport4
+https://storage.tumarcador.xyz/t8/live.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport5
+https://storage.tumarcador.xyz/t2/live.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport6
+https://storage.tumarcador.xyz/t4/live.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport7
+https://storage.tumarcador.xyz/t5/live.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport8
+https://storage.tumarcador.xyz/t6/live.m3u8
+
 ########################### MUSIC ##################################
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="MUSIC",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
@@ -296,25 +315,6 @@ http://rtmp.one.by:1300
 http://77.232.128.68/bks.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="MUSIC",XLITE MUSIC
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
-
-################################# FEED SPORT ##################################
-
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport1
-https://storage.tumarcador.xyz/t1/live.m3u8
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport2
-https://storage.tumarcador.xyz/t3/live.m3u8
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport3
-https://storage.tumarcador.xyz/t7/live.m3u8
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport4
-https://storage.tumarcador.xyz/t8/live.m3u8
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport5
-https://storage.tumarcador.xyz/t2/live.m3u8
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport6
-https://storage.tumarcador.xyz/t4/live.m3u8
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport7
-https://storage.tumarcador.xyz/t5/live.m3u8
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport8
-https://storage.tumarcador.xyz/t6/live.m3u8
 
 ################################# KIDS ##################################
 #EXTINF:-1  tvg-logo="https://www.infotelevisi.com/asset/images/tv/my-kids.jpg" group-title="KIDS",MY KIDS
