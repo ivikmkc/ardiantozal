@@ -186,38 +186,22 @@ http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 ############################### SPORT ############################################
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="Sport",MNC Sport
 https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="Sport",Sport1
-https://storage.tumarcador.xyz/t1/live.m3u8
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="Sport",Sport2
-https://storage.tumarcador.xyz/t3/live.m3u8
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="Sport",Sport3
-https://storage.tumarcador.xyz/t7/live.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-iA2FW8UW7dA/V4xXhJ-_kiI/AAAAAAAACAw/Yq33K4FNpOgjnOtblcaZJiaINSWQLOvIACLcB/s400/cctv5-vpn-china.png" group-title="Sport",CCTV5+
 http://cdn10.uhd4khdr.com/5jia.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="Sport",ELEVEN SPORT 1
 http://cdn7.woideas.com/tv11.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 1 INDO
-rtmp://118.97.96.17:1935/discover/beib1_4
+rtmp://118.97.96.17:1935/discover/beib1_3
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 2 INDO
-rtmp://118.97.96.17:1935/discover/beib2_4
+rtmp://118.97.96.17:1935/discover/beib2_3
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 3 INDO
-rtmp://118.97.96.17:1935/discover/beib3_4
+rtmp://118.97.96.17:1935/discover/beib3_3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 1 INDO
-rtmp://118.97.96.17:1935/discover/foxsport1_4
+rtmp://118.97.96.17:1935/discover/foxsport1_3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 2 INDO
-rtmp://118.97.96.17:1935/discover/foxsport2_4
+rtmp://118.97.96.17:1935/discover/foxsport2_3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 3 INDO
-rtmp://118.97.96.17:1935/discover/foxsport3_4
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180317/zfe/kisspng-mario-power-tennis-mario-tennis-super-mario-bros-tennis-artwork-5aad83d649d854.3309228815213209183025.jpg" group-title="Sport",SuperTennis
-http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/27
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905104402897395712/WKYtGK81_400x400.jpg" group-title="Sport",Roma TV
-http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/60
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_InterTV.png" group-title="Sport",Inter Channel
-http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/118
-#EXTINF:-1 tvg-logo="http://ulango.tv/uploads/channels/62754/logo_lazio%20style%20tv.png" group-title="Sport",Lazio Style Ch
-http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/110
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Milan_TV_-_Logo_2016.png" group-title="Sport",Milan TV
-http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/106
+rtmp://118.97.96.17:1935/discover/foxsport3_3
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png/revision/latest?cb=20181111072911" group-title="Sport",SUPER SOCCER
 http://210.210.155.35/uq2663/h/h20/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.grouponcdn.com/deal/2B72J2UuXYBTYk13cbrWR5FUHtsz/2B-1000x600/v1/c700x420.jpg" group-title="Sport",BT Sport 1 HD
@@ -229,25 +213,25 @@ http://ott-cdn.ucom.am/s82/03.m3u8
 #EXTINF:-1 tvg-logo="https://allsport.site/uploads/posts/2017-05/1496076533_pic_ch120-1-.jpg" group-title="Sport",SENTANA SPORT
 http://ott-cdn.ucom.am/s81/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 1
-http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/12048
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29373
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 2
-http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/12038
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29374
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 3
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29375
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 4
-http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/12035
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29376
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 5
-http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/12033
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29377
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 6
-http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/12031
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29378
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 7
-http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/12028
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29379
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 8
-http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/12026
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29380
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 9
-http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/12024
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29381
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 10
-http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/12046
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29382
 #EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="Sport", ABU DHABI SPORT
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="Sport",ABU DHABI SPORT 2
@@ -312,6 +296,25 @@ http://rtmp.one.by:1300
 http://77.232.128.68/bks.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="MUSIC",XLITE MUSIC
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+
+################################# FEED SPORT ##################################
+
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport1
+https://storage.tumarcador.xyz/t1/live.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport2
+https://storage.tumarcador.xyz/t3/live.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport3
+https://storage.tumarcador.xyz/t7/live.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport4
+https://storage.tumarcador.xyz/t8/live.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport5
+https://storage.tumarcador.xyz/t2/live.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport6
+https://storage.tumarcador.xyz/t4/live.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport7
+https://storage.tumarcador.xyz/t5/live.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport8
+https://storage.tumarcador.xyz/t6/live.m3u8
 
 ################################# KIDS ##################################
 #EXTINF:-1  tvg-logo="https://www.infotelevisi.com/asset/images/tv/my-kids.jpg" group-title="KIDS",MY KIDS
