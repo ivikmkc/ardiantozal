@@ -277,6 +277,10 @@ https://storage.tumarcador.xyz/t4/live.m3u8
 https://storage.tumarcador.xyz/t5/live.m3u8
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport8
 https://storage.tumarcador.xyz/t6/live.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport9
+https://storage.tumarcador.xyz/t9/live.m3u8
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport10
+https://storage.tumarcador.xyz/t10/live.m3u8
 
 ########################### MUSIC ##################################
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="MUSIC",KARAOKE CHANNEL
