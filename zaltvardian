@@ -194,30 +194,18 @@ https://storage.tumarcador.xyz/t3/live.m3u8
 http://cdn10.uhd4khdr.com/5jia.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="Sport",ELEVEN SPORT 1
 http://cdn7.woideas.com/tv11.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 1 INDO HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 1 INDO
 rtmp://118.97.96.17:1935/discover/beib1_4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 1 INDO SD
-rtmp://118.97.96.17:1935/discover/beib1_3
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 2 INDO HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 2 INDO
 rtmp://118.97.96.17:1935/discover/beib2_4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 2 INDO SD
-rtmp://118.97.96.17:1935/discover/beib2_3
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 3 INDO HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 3 INDO
 rtmp://118.97.96.17:1935/discover/beib3_4
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 3 INDO SD
-rtmp://118.97.96.17:1935/discover/beib3_3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 1 HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 1 INDO
 rtmp://118.97.96.17:1935/discover/foxsport1_4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 1 SD
-rtmp://118.97.96.17:1935/discover/foxsport1_3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 2 INDO
 rtmp://118.97.96.17:1935/discover/foxsport2_4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 2 SD
-rtmp://118.97.96.17:1935/discover/foxsport2_3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 3 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 3 INDO
 rtmp://118.97.96.17:1935/discover/foxsport3_4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 3 SD
-rtmp://118.97.96.17:1935/discover/foxsport3_3
 #EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180317/zfe/kisspng-mario-power-tennis-mario-tennis-super-mario-bros-tennis-artwork-5aad83d649d854.3309228815213209183025.jpg" group-title="Sport",SuperTennis
 http://m3u.iptvstreaming.org:25461/andrea.cidda@libero.it/5mtax2bzsphruhvrr2ax/27
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905104402897395712/WKYtGK81_400x400.jpg" group-title="Sport",Roma TV
