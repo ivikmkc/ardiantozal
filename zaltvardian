@@ -7,7 +7,7 @@ rtmp://118.97.96.17:1935/discover/foxsport1_3
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV
 https://cdn-livetv2.metube.id/hls/mnctv_240/index.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV BOLA
-https://cdn-livetv2.metube.id/hls/mnctv_240/index.m3u8
+https://cdn-livetv2.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL",GLOBAL TV
 https://cdn-livetv2.metube.id/hls/globaltv_240/index.m3u8
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL",GLOBAL TV HD
@@ -33,7 +33,7 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="LOKAL",TVONE
 http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="LOKAL",TRANSTV 
-https://cdn-livetv2.metube.id/hls/transtv_240/index.m3u8
+https://stream-02.sg1.dailymotion.com/sec(fp1HhgIdXMyYhHhoDT7nFrwWiuRrGfVy9jcgE2LLOtQ)/dm/3/x5b99vx/s/live-3.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="LOKAL",TRANS TV HD
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://image.ibb.co/hjiDeK/inewslogo.png" group-title="LOKAL",iNews
