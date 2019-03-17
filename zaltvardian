@@ -254,6 +254,8 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="Sport",Fight sport
 http://210.210.155.35/session/ff569f46-2f90-11e9-b351-b82a72d63267/uq2663/h/h05/index.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/ufc1-1552805906.png" group-title="Sport", UFC USA
+http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/199265.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport",TVRI SPORT
 http://rr2.dens.tv/s/s48/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="Sport",UFC
@@ -329,8 +331,7 @@ http://77.232.128.68/bks.m3u8
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 
 ################################# KIDS ##################################
-#EXTINF:-1  tvg-logo="https://www.infotelevisi.com/asset/images/tv/my-kids.jpg" group-title="KIDS",MY KIDS
-http://210.210.155.35/session/e182f600-c3a1-11e8-aa13-a4dba5aaae34/x6bnqe/s/s30/S4/mnf.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1  tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="KIDS",AniPlus
