@@ -4,11 +4,11 @@
 https://www.dropbox.com/s/uarxxybwrq82r88/ZALTVku.mp4?dl=1
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="LOKAL",www.toples.ml
 rtmp://118.97.96.17:1935/discover/foxsport1_3
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV SD
 https://cdn-livetv2.metube.id/hls/mnctv_240/index.m3u8
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV BOLA
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV HD
 https://cdn-livetv2.metube.id/hls/mnctv_480/index.m3u8
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL",GLOBAL TV
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL",GLOBAL TV SD
 https://cdn-livetv2.metube.id/hls/globaltv_240/index.m3u8
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL",GLOBAL TV HD
 http://202.80.222.174/000001/2/ch14041511505498448705/1001.m3u8?IASHttpSessionId=OTT293920190217215221334270&ztecid=ch14041511505498448705&bandwidth=1100904&ispcode=1&timeformat=local&channel=ch14041511505498448705&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMDMvMTAyNC5tM3U4&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com&virtualDomain=000001.live_hls.zte.com
