@@ -222,6 +222,16 @@ http://185-8-178-139.livesports24.online/btsportsport2.m3u8
 http://ott-cdn.ucom.am/s82/03.m3u8
 #EXTINF:-1 tvg-logo="https://allsport.site/uploads/posts/2017-05/1496076533_pic_ch120-1-.jpg" group-title="Sport",SENTANA SPORT
 http://ott-cdn.ucom.am/s81/03.m3u8
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 1
+http://51.15.161.236:25461/live/nicsky/fuckface/176.ts
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 2
+http://51.15.161.236:25461/live/nicsky/fuckface/177.ts
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 3
+http://51.15.161.236:25461/live/nicsky/fuckface/178.ts
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 4
+http://51.15.161.236:25461/live/nicsky/fuckface/179.ts
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 5
+http://51.15.161.236:25461/live/nicsky/fuckface/180.ts
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 1
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29377
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 2
@@ -242,16 +252,6 @@ http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29370
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29369
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 10
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29368
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 1
-http://51.15.161.236:25461/live/nicsky/fuckface/176.ts
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 2
-http://51.15.161.236:25461/live/nicsky/fuckface/177.ts
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 3
-http://51.15.161.236:25461/live/nicsky/fuckface/178.ts
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 4
-http://51.15.161.236:25461/live/nicsky/fuckface/179.ts
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 5
-http://51.15.161.236:25461/live/nicsky/fuckface/180.ts
 #EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport", ABU DHABI SPORT
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",ABU DHABI SPORT 2
