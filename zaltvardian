@@ -242,9 +242,19 @@ http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29370
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29369
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 10
 http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29368
-#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="Sport", ABU DHABI SPORT
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 1
+http://51.15.161.236:25461/live/nicsky/fuckface/176.ts
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 2
+http://51.15.161.236:25461/live/nicsky/fuckface/177.ts
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 3
+http://51.15.161.236:25461/live/nicsky/fuckface/178.ts
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 4
+http://51.15.161.236:25461/live/nicsky/fuckface/179.ts
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 5
+http://51.15.161.236:25461/live/nicsky/fuckface/180.ts
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport", ABU DHABI SPORT
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="Sport",ABU DHABI SPORT 2
+#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",ABU DHABI SPORT 2
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 #EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="Sport",,Abu Dhabi Sports 3
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
