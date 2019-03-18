@@ -15,7 +15,7 @@ http://202.80.222.174/000001/2/ch14041511505498448705/1001.m3u8?IASHttpSessionId
 #EXTINF:0 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="LOKAL",RCTI
 http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="LOKAL",RCTI HD
-http://id8.indostreamingtv.com/live/tv66/index.m3u8
+https://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8#http://id2.indostreamingtv.com/live/tv66/index.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png" group-title="LOKAL",INDOSIAR
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png" group-title="LOKAL",INDOSIAR HD
