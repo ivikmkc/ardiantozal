@@ -214,45 +214,45 @@ rtmp://118.97.96.17:1935/discover/foxsport2_3
 rtmp://118.97.96.17:1935/discover/foxsport3_3
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png/revision/latest?cb=20181111072911" group-title="Sport",SUPER SOCCER
 http://210.210.155.35/uq2663/h/h20/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", Eleven 1 France
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", Eleven 1 France
 http://eir4.pikaflik.co.uk:80/live?channelId=367&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", Eleven 1 NL
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", Eleven 1 NL
 http://eir4.pikaflik.co.uk:80/live?channelId=368&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", Eleven 1 uk
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", Eleven 1 uk
 http://eir4.pikaflik.co.uk:80/live?channelId=370&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", Eleven 1 Taiwan
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", Eleven 1 Taiwan
 http://eir4.pikaflik.co.uk:80/live?channelId=371&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", Eleven 2 France
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", Eleven 2 France
 http://eir4.pikaflik.co.uk:80/live?channelId=372&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", Eleven 2 NL
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", Eleven 2 NL
 http://eir4.pikaflik.co.uk:80/live?channelId=373&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", Eleven 2 Poland
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", Eleven 2 Poland
 http://eir4.pikaflik.co.uk:80/live?channelId=374&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", Eleven 2 uk
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", Eleven 2 uk
 http://eir4.pikaflik.co.uk:80/live?channelId=375&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", Eleven 2 Taiwan
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", Eleven 2 Taiwan
 http://eir4.pikaflik.co.uk:80/live?channelId=376&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", Eleven 3 France
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", Eleven 3 France
 http://eir4.pikaflik.co.uk:80/live?channelId=377&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", Eleven 3 NL
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", Eleven 3 NL
 http://eir4.pikaflik.co.uk:80/live?channelId=378&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", Eleven 3 Poland
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", Eleven 3 Poland
 http://eir4.pikaflik.co.uk:80/live?channelId=379&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", Eleven 4 Poland
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", Eleven 4 Poland
 http://eir4.pikaflik.co.uk:80/live?channelId=380&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", Eleven Plus Taiwan
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", Eleven Plus Taiwan
 http://eir4.pikaflik.co.uk:80/live?channelId=381&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", ELEVEN 1 Portugal
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", ELEVEN 1 Portugal
 http://eir5.pikaflik.co.uk:80/live?channelId=448&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", ELEVEN 2 Portugal
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", ELEVEN 2 Portugal
 http://eir5.pikaflik.co.uk:80/live?channelId=449&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", ELEVEN 3 Portugal
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", ELEVEN 3 Portugal
 http://eir5.pikaflik.co.uk:80/live?channelId=450&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", ELEVEN 4 Portugal
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", ELEVEN 4 Portugal
 http://eir5.pikaflik.co.uk:80/live?channelId=451&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", ELEVEN 5 Portugal
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", ELEVEN 5 Portugal
 http://eir5.pikaflik.co.uk:80/live?channelId=452&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Eleven Sport", ELEVEN 6 Portugal
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elevensports.com/wp-content/uploads/2018/06/ELEVEN_logo-solid1_WHITE.png" group-title="Sport", ELEVEN 6 Portugal
 http://eir5.pikaflik.co.uk:80/live?channelId=453&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://img.grouponcdn.com/deal/2B72J2UuXYBTYk13cbrWR5FUHtsz/2B-1000x600/v1/c700x420.jpg" group-title="Sport",BT Sport 1 HD
 http://185-125-230-172.livesports24.online/btsportone.m3u8
