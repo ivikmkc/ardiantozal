@@ -326,6 +326,9 @@ https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/01.m3u8
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/01.m3u8
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport",ESPN HD
 http://80.80.160.168/live/6/2500000/live.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport",BOX NATION
+http://92.42.110.150:25461/live/rugby101/h8HSCrj260/672.m3u8
+
 ################################# FEED SPORT ##################################
 
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport1
