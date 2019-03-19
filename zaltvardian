@@ -21,19 +21,21 @@ http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=0
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png" group-title="LOKAL",INDOSIAR HD
 http://id2.indostreamingtv.com/live/tv111/index.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_sctv_big1.png" group-title="LOKAL",SCTV
-http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://rr2.dens.tv/s/s103/index2.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_sctv_big1.png" group-title="LOKAL",SCTV HD
 http://id2.indostreamingtv.com/live/tv2/index.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="LOKAL",ANTV
 http://210.210.155.35/session/7fd33922-46b1-11e9-b863-c81f66f89318/qwr9ew/s/s102/01.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="LOKAL",TRANS 7
-http://210.210.155.35/session/9d3ac1c4-46b1-11e9-83d2-b82a72d63267/qwr9ew/s/s101/01.m3u8
+http://rr2.dens.tv/s/s101/index2.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="LOKAL",TRANS 7 HD
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="LOKAL",TVONE
 http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="LOKAL",TVONE HD
+http://rr2.dens.tv/s/s105/index2.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="LOKAL",TRANSTV 
-https://stream-02.sg1.dailymotion.com/sec(fp1HhgIdXMyYhHhoDT7nFrwWiuRrGfVy9jcgE2LLOtQ)/dm/3/x5b99vx/s/live-3.m3u8
+http://rr2.dens.tv/s/s100/index2.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="LOKAL",TRANS TV HD
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://image.ibb.co/hjiDeK/inewslogo.png" group-title="LOKAL",iNews
@@ -63,8 +65,8 @@ http://210.210.155.35/session/a3a86eca-319a-11e9-ba6a-b82a72d63267/qwr9ew/s/s10/
 http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="http://images.useetv.com/logo_balitv_big1.png" group-title="LOKAL",CNN INDONESIA HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-
-
+EXTINF:0 tvg-logo="http://image.azuza.web.id/images/vchanel-1553037616.jpg" group-title="LOKAL",V CHANNEL
+http://rr2.dens.tv/s/s41/index2.m3u8
 ######################################### FILM #################################
 #EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/89/img-live-jgo.jpg" group-title="Film",JGO
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
@@ -196,6 +198,8 @@ http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 
 
 ############################### SPORT ############################################
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport",TVRI SPORT
+http://rr2.dens.tv/s/s48/index2.m3u8
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="Sport",MNC Sport
 https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-iA2FW8UW7dA/V4xXhJ-_kiI/AAAAAAAACAw/Yq33K4FNpOgjnOtblcaZJiaINSWQLOvIACLcB/s400/cctv5-vpn-china.png" group-title="Sport",CCTV5+
@@ -414,6 +418,10 @@ http://194.88.104.74:8000/live/maundy/maundy/132.ts
 http://210.210.155.35/uq2663/h/h23/index1.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_nhkworld_big.png" group-title="KNOWLEDGE",NHK WORLD JAPAN
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="KNOWLEDGE", E NEWS
+http://45.126.83.51/uq2663/h/h10/01.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="KNOWLEDGE",TV 5 MONDE
+http://rr2.dens.tv/s/s24/index2.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="KNOWLEDGE", BLOOMBERG
 https://bblive-liveprodapnortheast.hs.llnwd.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="KNOWLEDGE", DW TV
@@ -712,6 +720,12 @@ http://dl8.heyserver.in/film/2019-2/Robin.Hood.2018.720p.WEB-DL.MkvCage.mkv
 ######### TV LUAR ###########
 #EXTINF:-1,TV5 Monde OTT
 http://103.242.13.90:5555/udp/239.4.1.38:10000
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="TV LUAR",CCTV 4
+http://rr2.dens.tv/s/s19/index2.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="TV LUAR",CGTN
+http://rr2.dens.tv/s/s20/index2.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="TV LUAR",CHINO
+http://rr2.dens.tv/s/s50/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="TV LUAR",Japanet Channel DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png" group-title="TV LUAR",NTV News24
