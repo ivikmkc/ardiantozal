@@ -27,7 +27,7 @@ http://id2.indostreamingtv.com/live/tv2/index.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="LOKAL",ANTV
 http://210.210.155.35/session/7fd33922-46b1-11e9-b863-c81f66f89318/qwr9ew/s/s102/01.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="LOKAL",ANTV
-http://45.126.83.51/qwr9ew/s/s07/01.m3u8
+http://202.80.222.170/000001/2/ch14061215034900095272/1001.m3u8?IASHttpSessionId=OTT22004201903192341046542499&ztecid=ch14061215034900095272&bandwidth=1100904&ispcode=1&timeformat=local&channel=ch14061215034900095272&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMjIvMTAyNC5tM3U4&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com&virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="LOKAL",TRANS 7
 http://rr2.dens.tv/s/s101/index2.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="LOKAL",TRANS 7 HD
