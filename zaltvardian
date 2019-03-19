@@ -7,7 +7,7 @@ rtmp://118.97.96.17:1935/discover/foxsport1_3
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV SD
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL",MNCTV HD
-https://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
+http://202.80.222.130/000001/2/ch14041511111714365733/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL",GLOBAL TV SD
 http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL",GLOBAL TV HD
@@ -306,8 +306,12 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="Sport",Fight sport
 http://210.210.155.35/session/ff569f46-2f90-11e9-b351-b82a72d63267/uq2663/h/h05/index.m3u8
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/ufc1-1552805906.png" group-title="Sport", UFC USA
-http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/199265.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport",Sport TV 1  /HD
+http://185-8-178-140.livesports24.online/ptsporttv1.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport",Sport TV 2  /HD
+http://185-125-230-172.livesports24.online/portugalsport2.m3u8
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport",Sport TV 3  /HD
+http://185-125-230-172.livesports24.online/sport3tvpt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport",TVRI SPORT
 http://rr2.dens.tv/s/s48/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="Sport",UFC
@@ -320,7 +324,8 @@ https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/02.m3u8
 https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport",MU TV
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/01.m3u8
-
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport",ESPN HD
+http://80.80.160.168/live/6/2500000/live.m3u8
 ################################# FEED SPORT ##################################
 
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport1
@@ -715,6 +720,8 @@ http://dl8.heyserver.in/film/2019-2/Robin.Hood.2018.720p.WEB-DL.MkvCage.mkv
 
 
 ######### TV LUAR ###########
+#EXTINF:-1,TV5 Monde OTT
+http://103.242.13.90:5555/udp/239.4.1.38:10000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="TV LUAR",Japanet Channel DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png" group-title="TV LUAR",NTV News24
