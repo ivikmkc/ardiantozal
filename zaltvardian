@@ -65,7 +65,7 @@ http://210.210.155.35/session/a3a86eca-319a-11e9-ba6a-b82a72d63267/qwr9ew/s/s10/
 http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-logo="http://images.useetv.com/logo_balitv_big1.png" group-title="LOKAL",CNN INDONESIA HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-EXTINF:0 tvg-logo="http://image.azuza.web.id/images/vchanel-1553037616.jpg" group-title="LOKAL",V CHANNEL
+#EXTINF:0 tvg-logo="http://image.azuza.web.id/images/vchanel-1553037616.jpg" group-title="LOKAL", V CHANNEL
 http://rr2.dens.tv/s/s41/index2.m3u8
 ######################################### FILM #################################
 #EXTINF:-1 tvg-logo="https://images-channel.mivo.com/channel/image/89/img-live-jgo.jpg" group-title="Film",JGO
