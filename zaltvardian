@@ -201,17 +201,17 @@ http://cdn7.woideas.com/tv11.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT HD
 https://storage.tumarcador.xyz/t3/live.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 1 INDO
-rtmp://118.97.96.17:1935/discover/beib1_3
+rtmp://118.97.96.17:1935/discover/beib1_4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 2 INDO
-rtmp://118.97.96.17:1935/discover/beib2_3
+rtmp://118.97.96.17:1935/discover/beib2_4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 3 INDO
-rtmp://118.97.96.17:1935/discover/beib3_3
+rtmp://118.97.96.17:1935/discover/beib3_4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 1 INDO
-rtmp://118.97.96.17:1935/discover/foxsport1_3
+rtmp://118.97.96.17:1935/discover/foxsport1_4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 2 INDO
-rtmp://118.97.96.17:1935/discover/foxsport2_3
+rtmp://118.97.96.17:1935/discover/foxsport2_4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 3 INDO
-rtmp://118.97.96.17:1935/discover/foxsport3_3
+rtmp://118.97.96.17:1935/discover/foxsport3_4
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png/revision/latest?cb=20181111072911" group-title="Sport",SUPER SOCCER
 http://210.210.155.35/uq2663/h/h20/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.grouponcdn.com/deal/2B72J2UuXYBTYk13cbrWR5FUHtsz/2B-1000x600/v1/c700x420.jpg" group-title="Sport",BT Sport 1 HD
