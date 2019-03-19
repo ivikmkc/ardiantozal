@@ -707,8 +707,8 @@ http://dl8.heyserver.in/film/2019-2/Robin.Hood.2018.720p.WEB-DL.MkvCage.mkv
 
 
 ######### TV LUAR ###########
-#EXTINF:-1,TV5 Monde OTT
-http://103.242.13.90:5555/udp/239.4.1.38:10000
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/tv5-1553040402.jpg" group-title="TV LUAR",TV5 Monde OTT
+http://rr2.dens.tv/s/s24/index2.m3u8
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="TV LUAR",CCTV 4
 http://rr2.dens.tv/s/s19/index2.m3u8
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="TV LUAR",CGTN
