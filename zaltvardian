@@ -212,6 +212,18 @@ rtmp://118.97.96.17:1935/discover/foxsport1_4
 rtmp://118.97.96.17:1935/discover/foxsport2_4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 3 INDO
 rtmp://118.97.96.17:1935/discover/foxsport3_4
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten1-1553004317.jpg" group-title="Sport", Sony Ten 1 HD
+http://103.205.133.14/hls/ten1.m3u8
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten1-1553004317.jpg" group-title="Sport", Sony Ten 1 backup HD
+http://thoptv.strangled.net/api/tulip/tvbd.m3u8?id=ten1
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten2-1553004683.jpg" group-title="Sport", Sony Ten 2 HD
+http://thoptv.strangled.net/api/tulip/tvbd.m3u8?id=ten2
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten2-1553004683.jpg" group-title="Sport", Sony Ten 2 backup HD
+http://103.205.133.14/hls/ten2.m3u8
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten3-1553004814.jpg" group-title="Sport", Sony Ten 3 HD
+http://thoptv.strangled.net/api/tulip/tvbd.m3u8?id=ten3
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten3-1553004814.jpg" group-title="Sport", Sony Ten 3 HD backup
+http://103.205.133.14/hls/ten3.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png/revision/latest?cb=20181111072911" group-title="Sport",SUPER SOCCER
 http://210.210.155.35/uq2663/h/h20/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.grouponcdn.com/deal/2B72J2UuXYBTYk13cbrWR5FUHtsz/2B-1000x600/v1/c700x420.jpg" group-title="Sport",BT Sport 1 HD
