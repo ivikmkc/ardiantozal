@@ -222,13 +222,9 @@ rtmp://118.97.96.17:1935/discover/foxsport3_4
 http://103.205.133.14/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten1-1553004317.jpg" group-title="Sport", Sony Ten 1 backup HD
 http://thoptv.strangled.net/api/tulip/tvbd.m3u8?id=ten1
-#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten2-1553004683.jpg" group-title="Sport", Sony Ten 2 HD
-http://thoptv.strangled.net/api/tulip/tvbd.m3u8?id=ten2
-#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten2-1553004683.jpg" group-title="Sport", Sony Ten 2 backup HD
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten2-1553004683.jpg" group-title="Sport", Sony Ten 2 backup 
 http://103.205.133.14/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten3-1553004814.jpg" group-title="Sport", Sony Ten 3 HD
-http://thoptv.strangled.net/api/tulip/tvbd.m3u8?id=ten3
-#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten3-1553004814.jpg" group-title="Sport", Sony Ten 3 HD backup
 http://103.205.133.14/hls/ten3.m3u8
 #EXTINF:-1,SONY ESPN HD
 http://103.205.133.14/hls/sonyespn.m3u8
