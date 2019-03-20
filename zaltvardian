@@ -80,13 +80,13 @@ http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="Film",CELESTIAL MOVIE ID HD
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1,FOX Action Movies HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/80/FOX_Action_Movies_%282017%29.png/1200px-FOX_Action_Movies_%282017%29.png" group-title="Film",FOX Action Movies HD
 http://146.71.85.71:8081/live/gratis/untuk_semua/69.ts
-#EXTINF:-1,FOX Movies HD
+#EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/McFsQCtLAy0pRT_XIc_N0dbHBlM=/640x360/smart/filters:quality(90)/vidio-media-production/uploads/video/image/852835/fox-movies-501-eliminators-c9f7ba.jpg" group-title="Film",FOX Movies HD
 http://146.71.85.71:8081/live/gratis/untuk_semua/71.ts
-#EXTINF:-1,HBO HD
+#EXTINF:-1 tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-hbohd-480x320.jpg" group-title="Film",HBO HD
 http://146.71.85.71:8081/live/gratis/untuk_semua/68.ts
-#EXTINF:-1,FOX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Film",FOX HD
 http://146.71.85.71:8081/live/gratis/untuk_semua/73.ts
 #EXTINF:-1 tvg-logo="https://id.beritasatu.com/media/images/medium2/20110114112637402.jpg" group-title="Film",Celestial Clasic Movie MY
 http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
@@ -236,21 +236,21 @@ http://146.71.85.71:8081/live/gratis/untuk_semua/29.ts
 rtmp://118.97.96.17:1935/discover/foxsport3_4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 3 INDO BACKUP
 http://146.71.85.71:8081/live/gratis/untuk_semua/30.ts
-#EXTINF:-1,Eleven Sports 1 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="Sport",Eleven Sports 1 FHD
 http://146.71.85.71:8081/live/gratis/untuk_semua/74.ts
-#EXTINF:-1,Eleven Sports 2 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="Sport",Eleven Sports 2 FHD
 http://146.71.85.71:8081/live/gratis/untuk_semua/75.ts
-#EXTINF:-1,Eleven Sports 3 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="Sport",Eleven Sports 3 FHD
 http://146.71.85.71:8081/live/gratis/untuk_semua/76.ts
-#EXTINF:-1,Eleven Sports 4 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="Sport",Eleven Sports 4 FHD
 http://146.71.85.71:8081/live/gratis/untuk_semua/77.ts
-#EXTINF:-1,Arena Sports 1 HD
+#EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/9/6/3/19633072/19633072,640x360,b:2.jpg" group-title="Sport",Arena Sports 1 HD
 http://146.71.85.71:8081/live/gratis/untuk_semua/64.ts
-#EXTINF:-1,Arena Sports 2 HD
+#EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/9/6/3/19633072/19633072,640x360,b:2.jpg" group-title="Sport",Arena Sports 2 HD
 http://146.71.85.71:8081/live/gratis/untuk_semua/65.ts
-#EXTINF:-1,Arena Sports 3 HD
+#EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/9/6/3/19633072/19633072,640x360,b:2.jpg" group-title="Sport",Arena Sports 3 HD
 http://146.71.85.71:8081/live/gratis/untuk_semua/66.ts
-#EXTINF:-1,Arena Sports 4 HD
+#EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/9/6/3/19633072/19633072,640x360,b:2.jpg" group-title="Sport",Arena Sports 4 HD
 http://146.71.85.71:8081/live/gratis/untuk_semua/49.ts
 #EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten2-1553004683.jpg" group-title="Sport", Sony Ten 2
 http://103.205.133.14/hls/ten2.m3u8
