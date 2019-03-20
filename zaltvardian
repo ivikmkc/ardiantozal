@@ -80,6 +80,14 @@ http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="Film",CELESTIAL MOVIE ID HD
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1,FOX Action Movies HD
+http://146.71.85.71:8081/live/gratis/untuk_semua/69.ts
+#EXTINF:-1,FOX Movies HD
+http://146.71.85.71:8081/live/gratis/untuk_semua/71.ts
+#EXTINF:-1,HBO HD
+http://146.71.85.71:8081/live/gratis/untuk_semua/68.ts
+#EXTINF:-1,FOX HD
+http://146.71.85.71:8081/live/gratis/untuk_semua/73.ts
 #EXTINF:-1 tvg-logo="https://id.beritasatu.com/media/images/medium2/20110114112637402.jpg" group-title="Film",Celestial Clasic Movie MY
 http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/2000px-KIX_logo.svg.png" group-title="Film",KIX
@@ -206,16 +214,44 @@ http://cdn7.woideas.com/tv11.m3u8
 https://storage.tumarcador.xyz/t3/live.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 1 INDO
 rtmp://118.97.96.17:1935/discover/beib1_4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 1 INDO BACKUP
+http://146.71.85.71:8081/live/gratis/untuk_semua/25.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 2 INDO
 rtmp://118.97.96.17:1935/discover/beib2_4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 2 INDO BACKUP
+http://146.71.85.71:8081/live/gratis/untuk_semua/26.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 3 INDO
 rtmp://118.97.96.17:1935/discover/beib3_4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 3 INDO BACKUP
+http://146.71.85.71:8081/live/gratis/untuk_semua/27.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 1 INDO
 rtmp://118.97.96.17:1935/discover/foxsport1_4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 1 INDO BACKUP
+http://146.71.85.71:8081/live/gratis/untuk_semua/28.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 2 INDO
 rtmp://118.97.96.17:1935/discover/foxsport2_4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 2 INDO BACKUP
+http://146.71.85.71:8081/live/gratis/untuk_semua/29.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 3 INDO
 rtmp://118.97.96.17:1935/discover/foxsport3_4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 3 INDO BACKUP
+http://146.71.85.71:8081/live/gratis/untuk_semua/30.ts
+#EXTINF:-1,Eleven Sports 1 FHD
+http://146.71.85.71:8081/live/gratis/untuk_semua/74.ts
+#EXTINF:-1,Eleven Sports 2 FHD
+http://146.71.85.71:8081/live/gratis/untuk_semua/75.ts
+#EXTINF:-1,Eleven Sports 3 FHD
+http://146.71.85.71:8081/live/gratis/untuk_semua/76.ts
+#EXTINF:-1,Eleven Sports 4 FHD
+http://146.71.85.71:8081/live/gratis/untuk_semua/77.ts
+#EXTINF:-1,Arena Sports 1 HD
+http://146.71.85.71:8081/live/gratis/untuk_semua/64.ts
+#EXTINF:-1,Arena Sports 2 HD
+http://146.71.85.71:8081/live/gratis/untuk_semua/65.ts
+#EXTINF:-1,Arena Sports 3 HD
+http://146.71.85.71:8081/live/gratis/untuk_semua/66.ts
+#EXTINF:-1,Arena Sports 4 HD
+http://146.71.85.71:8081/live/gratis/untuk_semua/49.ts
 #EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten2-1553004683.jpg" group-title="Sport", Sony Ten 2
 http://103.205.133.14/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten3-1553004814.jpg" group-title="Sport", Sony Ten 3 HD
@@ -362,6 +398,8 @@ http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/AajLtF8BPUY/hqdefault.jpg" group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1,MY KIDS
+http://146.71.85.71:8081/live/gratis/untuk_semua/70.ts
 #EXTINF:-1  tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="KIDS",AniPlus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS",CARTOON NETWORK
