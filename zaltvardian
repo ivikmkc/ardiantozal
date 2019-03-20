@@ -236,14 +236,6 @@ http://146.71.85.71:8081/live/gratis/untuk_semua/29.ts
 rtmp://118.97.96.17:1935/discover/foxsport3_4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 3 INDO BACKUP
 http://146.71.85.71:8081/live/gratis/untuk_semua/30.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="Sport",Eleven Sports 1 FHD
-http://146.71.85.71:8081/live/gratis/untuk_semua/74.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="Sport",Eleven Sports 2 FHD
-http://146.71.85.71:8081/live/gratis/untuk_semua/75.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="Sport",Eleven Sports 3 FHD
-http://146.71.85.71:8081/live/gratis/untuk_semua/76.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="Sport",Eleven Sports 4 FHD
-http://146.71.85.71:8081/live/gratis/untuk_semua/77.ts
 #EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/9/6/3/19633072/19633072,640x360,b:2.jpg" group-title="Sport",Arena Sports 1 HD
 http://146.71.85.71:8081/live/gratis/untuk_semua/64.ts
 #EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/9/6/3/19633072/19633072,640x360,b:2.jpg" group-title="Sport",Arena Sports 2 HD
