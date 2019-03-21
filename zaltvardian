@@ -240,6 +240,26 @@ http://146.71.85.71:8081/live/gratis/untuk_semua/29.ts
 rtmp://118.97.96.17:1935/discover/foxsport3_3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 3 INDO BACKUP
 http://146.71.85.71:8081/live/gratis/untuk_semua/30.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 1
+http://146.71.85.71:8081/live/gratis/untuk_semua/79.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 2
+http://146.71.85.71:8081/live/gratis/untuk_semua/80.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 3
+http://146.71.85.71:8081/live/gratis/untuk_semua/81.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 4
+http://146.71.85.71:8081/live/gratis/untuk_semua/82.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 5
+http://146.71.85.71:8081/live/gratis/untuk_semua/83.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 6
+http://146.71.85.71:8081/live/gratis/untuk_semua/84.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 7
+http://146.71.85.71:8081/live/gratis/untuk_semua/85.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 8
+http://146.71.85.71:8081/live/gratis/untuk_semua/86.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 9
+http://146.71.85.71:8081/live/gratis/untuk_semua/87.ts
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 10
+http://146.71.85.71:8081/live/gratis/untuk_semua/88.ts
 #EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/9/6/3/19633072/19633072,640x360,b:2.jpg" group-title="Sport",Arena Sports 1 HD
 http://146.71.85.71:8081/live/gratis/untuk_semua/64.ts
 #EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/9/6/3/19633072/19633072,640x360,b:2.jpg" group-title="Sport",Arena Sports 2 HD
@@ -270,26 +290,6 @@ http://51.15.161.236:25461/live/nicsky/fuckface/178.ts
 http://51.15.161.236:25461/live/nicsky/fuckface/179.ts
 #EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 5
 http://51.15.161.236:25461/live/nicsky/fuckface/180.ts
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 1
-http://146.71.85.71:8081/live/gratis/untuk_semua/79.ts
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 2
-http://146.71.85.71:8081/live/gratis/untuk_semua/80.ts
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 3
-http://146.71.85.71:8081/live/gratis/untuk_semua/81.ts
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 4
-http://146.71.85.71:8081/live/gratis/untuk_semua/82.ts
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 5
-http://146.71.85.71:8081/live/gratis/untuk_semua/83.ts
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 6
-http://146.71.85.71:8081/live/gratis/untuk_semua/84.ts
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 7
-http://146.71.85.71:8081/live/gratis/untuk_semua/85.ts
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 8
-http://146.71.85.71:8081/live/gratis/untuk_semua/86.ts
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 9
-http://146.71.85.71:8081/live/gratis/untuk_semua/87.ts
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 10
-http://146.71.85.71:8081/live/gratis/untuk_semua/88.ts
 #EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport", ABU DHABI SPORT
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",ABU DHABI SPORT 2
