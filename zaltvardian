@@ -212,6 +212,8 @@ http://cdn7.woideas.com/tv11.m3u8
 http://103.205.133.14/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten3-1553004814.jpg" group-title="Sport", Sony Ten 3 HD
 http://103.205.133.14/hls/ten3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" group-title="Sport",SONY ESPN HD
+http://103.205.133.14/hls/sonyespn.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT HD
 https://storage.tumarcador.xyz/t3/live.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 1 INDO
@@ -266,8 +268,6 @@ http://146.71.85.71:8081/live/gratis/untuk_semua/65.ts
 http://146.71.85.71:8081/live/gratis/untuk_semua/66.ts
 #EXTINF:-1 tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/1/9/6/3/19633072/19633072,640x360,b:2.jpg" group-title="Sport",Arena Sports 4 HD
 http://146.71.85.71:8081/live/gratis/untuk_semua/49.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png" group-title="Sport",SONY ESPN HD
-http://103.205.133.14/hls/sonyespn.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png/revision/latest?cb=20181111072911" group-title="Sport",SUPER SOCCER
 http://210.210.155.35/uq2663/h/h20/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.grouponcdn.com/deal/2B72J2UuXYBTYk13cbrWR5FUHtsz/2B-1000x600/v1/c700x420.jpg" group-title="Sport",BT Sport 1 HD
