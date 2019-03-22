@@ -278,34 +278,24 @@ http://223.17.38.250:9981/stream/channelid/162828576?ticket=A73713985D198D10D386
 http://223.17.38.250:9981/stream/channelid/1684488363?ticket=126496FD409051B580A4065BF0EAAAAB15B2766B&profile=pass
 #EXTINF:-1 tvg-id="51bfb3cc31e639e3c29497efaa939e15",True Sport7 [KP]
 http://223.17.38.250:9981/stream/channelid/1286848337?ticket=1334A655ABDE941CE5CF3268DFB81E30E8170D11&profile=pass
-#EXTINF:-1,|YES| YES Sport 1 HD
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport", YES Sport 1 HD
 http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/242.m3u8
-#EXTINF:-1,|YES| YES Sport 2 HD
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport",YES Sport 2 HD
 http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/241.m3u8
-#EXTINF:-1,|YES| YES Sport 3 HD
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport",YES Sport 3 HD
 http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/240.m3u8
-#EXTINF:-1,|YES| YES Sport 4 HD
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport", YES Sport 4 HD
 http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/239.m3u8
-#EXTINF:-1,|YES| YES Sport 5 GOLD HD
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport",YES Sport 5 GOLD HD
 http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/238.m3u8
-#EXTINF:-1,|YES| YES Sport 5 HD
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport", YES Sport 5 HD
 http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/237.m3u8
-#EXTINF:-1,|YES| YES Sport 5 Live HD
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport", YES Sport 5 Live HD
 http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/236.m3u8
-#EXTINF:-1,|YES| YES Sport 5 Plus HD
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport", YES Sport 5 Plus HD
 http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/235.m3u8
-#EXTINF:-1,|YES| YES Sport 5 Stars HD
+#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport", YES Sport 5 Stars HD
 http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/234.m3u8
-#EXTINF:-1,|DE| Sky Sport 1 HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/304.m3u8
-#EXTINF:-1,|DE| Sky SPort 1 SD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/303.m3u8
-#EXTINF:-1,|DE| Sky Sport 2 HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/302.m3u8
-#EXTINF:-1,|DE| SKY SPORT 2 SD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/301.m3u8
-#EXTINF:-1,|DE| Sky Sport News
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 1
 http://gatoriptv.pro:25461/MAG0611818895/MAG0611818895/5223
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 2
@@ -368,16 +358,8 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="Sport",Fight sport
 http://210.210.155.35/session/ff569f46-2f90-11e9-b351-b82a72d63267/uq2663/h/h05/index.m3u8
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport",Sport TV 1  /HD
-http://185-8-178-140.livesports24.online/ptsporttv1.m3u8
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport",Sport TV 2  /HD
-http://185-125-230-172.livesports24.online/portugalsport2.m3u8
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport",Sport TV 3  /HD
-http://185-125-230-172.livesports24.online/sport3tvpt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport",TVRI SPORT
 http://rr2.dens.tv/s/s48/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="Sport",UFC
-http://ccmedia.one:25461/live/Block/Block/070.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sport",PTV SPORTS
 https://5c1666995e3bc.streamlock.net/live/ptvsports/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport",MUTV
