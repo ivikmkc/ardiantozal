@@ -218,28 +218,66 @@ http://103.205.133.14/hls/sonyespn.m3u8
 https://storage.tumarcador.xyz/t3/live.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 1 INDO
 rtmp://118.97.96.17:1935/discover/beib1_3
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 1 INDO BACKUP
-http://146.71.85.71:8081/live/gratis/untuk_semua/25.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 2 INDO
 rtmp://118.97.96.17:1935/discover/beib2_3
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 2 INDO BACKUP
-http://146.71.85.71:8081/live/gratis/untuk_semua/26.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 3 INDO
 rtmp://118.97.96.17:1935/discover/beib3_3
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="Sport",BEINSPORT 3 INDO BACKUP
-http://146.71.85.71:8081/live/gratis/untuk_semua/27.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 1 INDO
 rtmp://118.97.96.17:1935/discover/foxsport1_3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 1 INDO BACKUP
-http://146.71.85.71:8081/live/gratis/untuk_semua/28.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 2 INDO
 rtmp://118.97.96.17:1935/discover/foxsport2_3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 2 INDO BACKUP
-http://146.71.85.71:8081/live/gratis/untuk_semua/29.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 3 INDO
 rtmp://118.97.96.17:1935/discover/foxsport3_3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 3 INDO BACKUP
-http://146.71.85.71:8081/live/gratis/untuk_semua/30.ts
+#EXTINF:-1 tvg-id="11802e194739878a29218c6b3f50069e",Bein1 [KP]
+http://223.17.38.250:9981/stream/channelid/422477841?ticket=82E1A116F5EF0A8EFCED5AD899339927E968BB75&profile=pass
+#EXTINF:-1 tvg-id="3f6dd354ae2e0191b4932aa7a8275528",Bein2 [KP]
+http://223.17.38.250:9981/stream/channelid/1423142207?ticket=9729CA8711D3886FC06B6A85B8113610003A52DB&profile=pass
+#EXTINF:-1 tvg-id="57e9c2e973a615e18058e78ca1be8125",Bein3 [KP]
+http://223.17.38.250:9981/stream/channelid/1774381399?ticket=DD635C1A84B522CD3CA2C9FA4D09386AB5480922&profile=pass
+#EXTINF:-1 tvg-id="a4f2db958266751576832eb18618cc5b",Bein4 [KP]
+http://223.17.38.250:9981/stream/channelid/366736036?ticket=B276AA3A8BFF512B6463805888D0AC32B7E28C4E&profile=pass
+#EXTINF:-1 tvg-id="8eab23347d192b6d5707242328a5a172",EDGE SPORT [KP]
+http://223.17.38.250:9981/stream/channelid/874752910?ticket=BF6FF9097B60C1966D1298D1CDFBD90100A8F509&profile=pass
+#EXTINF:-1 tvg-id="cb9ff97538c5084a20426a2b4a9d36cd",EUROSPORT [KP]
+http://223.17.38.250:9981/stream/channelid/1979293643?ticket=2C6D3814800A2F00ECCECA3FB1C05044866F03C9&profile=pass
+#EXTINF:-1 tvg-id="b4d1c3e7c6424e2c15167751c5924dc4",FOX SPORTS 1 [KP]
+http://223.17.38.250:9981/stream/channelid/1740886452?ticket=DD6B51048AD933301689132A3D298BFD7A53C86B&profile=pass
+#EXTINF:-1 tvg-id="c61aed8026ac775a88109d0d416a1ae4",FOX SPORTS 2 [KP]
+http://223.17.38.250:9981/stream/channelid/15538886?ticket=AB33A482E60440792A8BB804D4A96E89FC414982&profile=pass
+#EXTINF:-1 tvg-id="e3fa4dcda41bea66fddbd2c629eb7bc0",FOX SPORTS 3 [KP]
+http://223.17.38.250:9981/stream/channelid/1296956131?ticket=D5DD2231678AF40F5340185F48B0683B437E11AB&profile=pass
+#EXTINF:-1 tvg-id="8b6f61afeed0cf1fa79e4686b45bc1fb",SKYNET SPORTS 1 [KP]
+http://223.17.38.250:9981/stream/channelid/794914699?ticket=B32EC0FBC386066CD170E5AFF96B8BE7448EA526&profile=pass
+#EXTINF:-1 tvg-id="ac37404545dd9235b7a6cbf9b06df03d",SKYNET SPORTS 2 [KP]
+http://223.17.38.250:9981/stream/channelid/1161836460?ticket=9157AC6FC37E69820FB508A77827146194935123&profile=pass
+#EXTINF:-1 tvg-id="4432f51278cae34d4e3c5e08b08d26e9",SKYNET SPORTS 3 [KP]
+http://223.17.38.250:9981/stream/channelid/318059076?ticket=5ED0A229A56C522B6D39B812AA0C8438CC8C4A83&profile=pass
+#EXTINF:-1 tvg-id="546cc92358f7c86b8af08132e686197d",SKYNET SPORTS 4 [KP]
+http://223.17.38.250:9981/stream/channelid/600403028?ticket=FC7F59DE0168E604AC11A95C3FB34EF34DA99F8B&profile=pass
+#EXTINF:-1 tvg-id="ffabe023e8cda60431b8b1a81e753d70",SKYNET SPORTS 5 [KP]
+http://223.17.38.250:9981/stream/channelid/601926655?ticket=ED594636DB295F976F2D21D3D218F1098D950599&profile=pass
+#EXTINF:-1 tvg-id="97268f8dd1f55822526cb5feded4082e",SKYNET SPORTS 6 [KP]
+http://223.17.38.250:9981/stream/channelid/227485335?ticket=FAD45B4AB26393C42E9B1060C1BA9C11DDA5CBB3&profile=pass
+#EXTINF:-1 tvg-id="00f272c32b02ea95dbe8281cdc8c046c",SKYNET SPORTS HD [KP]
+http://223.17.38.250:9981/stream/channelid/1131606528?ticket=F9919AFCB37CC86D1A8C32D269328B4EDF2468FB&profile=pass
+#EXTINF:-1 tvg-id="f57b9f1abb3536edb0f932aef8dc1841",SKYNET SPORTS PLUS [KP]
+http://223.17.38.250:9981/stream/channelid/446659573?ticket=24A13FC6A2C5EDDCBB93EE8149556416F3C92501&profile=pass
+#EXTINF:-1 tvg-id="f78133edcfe7499bd15157f11f948341",True HD1 [KP]
+http://223.17.38.250:9981/stream/channelid/1832092151?ticket=D3A6BA1C3E6594F8BC077B928A54CAD1D777F28D&profile=pass
+#EXTINF:-1 tvg-id="9f3042210f0f8573530d59d51706ba85",True HD2 [KP]
+http://223.17.38.250:9981/stream/channelid/557985951?ticket=65551A7C6702F08F0E63D30FB9D6485126F81164&profile=pass
+#EXTINF:-1 tvg-id="0adc707b7822b71b369e7275c2aa6d75",True HD3 [KP]
+http://223.17.38.250:9981/stream/channelid/2070993930?ticket=13A1FFABA8918E7EB342352C3D040D3D29C5E31A&profile=pass
+#EXTINF:-1 tvg-id="7520f6c53bc672b1eca1a79a144c4c97",True HD4 [KP]
+http://223.17.38.250:9981/stream/channelid/1173758069?ticket=0F81BEF0E845E3DD47D3494DFFC5343A6BCCB0FA&profile=pass
+#EXTINF:-1 tvg-id="b192e717fde5ba1cefa641e74ad3c4d6",True Sport2 [KP]
+http://223.17.38.250:9981/stream/channelid/401052337?ticket=CE9B00CF32A564AFB6E337C639070FD3F73D36B1&profile=pass
+#EXTINF:-1 tvg-id="2091b489f3da0d0757eb4b647145d408",True Sport5 [KP]
+http://223.17.38.250:9981/stream/channelid/162828576?ticket=A73713985D198D10D3866E193B2D33E2594EB87D&profile=pass
+#EXTINF:-1 tvg-id="ab4067e44c0c4b049a7e7d90655d305c",True Sport6 [KP]
+http://223.17.38.250:9981/stream/channelid/1684488363?ticket=126496FD409051B580A4065BF0EAAAAB15B2766B&profile=pass
+#EXTINF:-1 tvg-id="51bfb3cc31e639e3c29497efaa939e15",True Sport7 [KP]
+http://223.17.38.250:9981/stream/channelid/1286848337?ticket=1334A655ABDE941CE5CF3268DFB81E30E8170D11&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 1
 http://gatoriptv.pro:25461/MAG0611818895/MAG0611818895/5223
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 2
