@@ -278,6 +278,34 @@ http://223.17.38.250:9981/stream/channelid/162828576?ticket=A73713985D198D10D386
 http://223.17.38.250:9981/stream/channelid/1684488363?ticket=126496FD409051B580A4065BF0EAAAAB15B2766B&profile=pass
 #EXTINF:-1 tvg-id="51bfb3cc31e639e3c29497efaa939e15",True Sport7 [KP]
 http://223.17.38.250:9981/stream/channelid/1286848337?ticket=1334A655ABDE941CE5CF3268DFB81E30E8170D11&profile=pass
+#EXTINF:-1,|YES| YES Sport 1 HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/242.m3u8
+#EXTINF:-1,|YES| YES Sport 2 HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/241.m3u8
+#EXTINF:-1,|YES| YES Sport 3 HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/240.m3u8
+#EXTINF:-1,|YES| YES Sport 4 HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/239.m3u8
+#EXTINF:-1,|YES| YES Sport 5 GOLD HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/238.m3u8
+#EXTINF:-1,|YES| YES Sport 5 HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/237.m3u8
+#EXTINF:-1,|YES| YES Sport 5 Live HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/236.m3u8
+#EXTINF:-1,|YES| YES Sport 5 Plus HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/235.m3u8
+#EXTINF:-1,|YES| YES Sport 5 Stars HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/234.m3u8
+#EXTINF:-1,|DE| Sky Sport 1 HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/304.m3u8
+#EXTINF:-1,|DE| Sky SPort 1 SD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/303.m3u8
+#EXTINF:-1,|DE| Sky Sport 2 HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/302.m3u8
+#EXTINF:-1,|DE| SKY SPORT 2 SD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/301.m3u8
+#EXTINF:-1,|DE| Sky Sport News
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 1
 http://gatoriptv.pro:25461/MAG0611818895/MAG0611818895/5223
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 2
