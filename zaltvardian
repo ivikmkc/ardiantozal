@@ -208,6 +208,8 @@ https://live.mncnow.id/mncsports/index.m3u8?virtualDomain=000001.live_hls.zte.co
 http://cdn10.uhd4khdr.com/5jia.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ELEVEN_SPORTS.png/1200px-ELEVEN_SPORTS.png" group-title="Sport",ELEVEN SPORT 1
 http://cdn7.woideas.com/tv11.m3u8
+#EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten1-1553255773.jpg" group-title="Sport", Sony Ten 1
+http://103.205.133.14/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten2-1553004683.jpg" group-title="Sport", Sony Ten 2
 http://103.205.133.14/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="http://image.azuza.web.id/images/ten3-1553004814.jpg" group-title="Sport", Sony Ten 3 HD
