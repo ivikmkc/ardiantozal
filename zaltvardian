@@ -85,6 +85,8 @@ http://get.indotv.live:8081/live/gratis/semogaselamanya/69.m3u8
 #EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/McFsQCtLAy0pRT_XIc_N0dbHBlM=/640x360/smart/filters:quality(90)/vidio-media-production/uploads/video/image/852835/fox-movies-501-eliminators-c9f7ba.jpg" group-title="Film",FOX Movies HD
 http://get.indotv.live:8081/live/gratis/semogaselamanya/71.m3u8
 #EXTINF:-1 tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-hbohd-480x320.jpg" group-title="Film",HBO HD
+http://get.indotv.live:8081/live/gratis/semogaselamanya/68.m3u8
+#EXTINF:-1 tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-hbohd-480x320.jpg" group-title="Film",HBO SD
 http://103.205.133.14/hls/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://id.beritasatu.com/media/images/medium2/20110114112637402.jpg" group-title="Film",Celestial Clasic Movie MY
 http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
@@ -102,8 +104,6 @@ http://103.205.133.14/hls/axn.m3u8
 http://210.210.155.35/uq2663/h/h11/index.m3u8
 #EXTINF:-1 tvg-logo="https://st2.depositphotos.com/3969727/9519/v/950/depositphotos_95197520-stock-illustration-cinema-word-written-spray-paint.jpg" group-title="Film",CINEMA WORD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
-#EXTINF:0,HBO
-http://103.205.133.14/hls/hbo.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="Film", & FliX HD
 http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/157470.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="Film", &PICTURE HD
