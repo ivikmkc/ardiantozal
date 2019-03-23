@@ -85,7 +85,7 @@ http://get.indotv.live:8081/live/gratis/semogaselamanya/69.m3u8
 #EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/McFsQCtLAy0pRT_XIc_N0dbHBlM=/640x360/smart/filters:quality(90)/vidio-media-production/uploads/video/image/852835/fox-movies-501-eliminators-c9f7ba.jpg" group-title="Film",FOX Movies HD
 http://get.indotv.live:8081/live/gratis/semogaselamanya/71.m3u8
 #EXTINF:-1 tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-hbohd-480x320.jpg" group-title="Film",HBO HD
-http://get.indotv.live:8081/live/gratis/semogaselamanya/68.m3u8
+http://103.205.133.14/hls/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://id.beritasatu.com/media/images/medium2/20110114112637402.jpg" group-title="Film",Celestial Clasic Movie MY
 http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/2000px-KIX_logo.svg.png" group-title="Film",KIX
@@ -97,7 +97,7 @@ http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/9/9a/Logo-Thrill.jpg/revision/latest?cb=20130314023401" group-title="Film",thrill HD
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTf0u7tj8KAqbzQjl-uMsOyoyhR3DdUjva48eJKDZfqcvEe04v" group-title="Film",AXN
-http://210.210.155.35/uq2663/h/h09/index.m3u8
+http://103.205.133.14/hls/axn.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Diva_Universal.png/revision/latest?cb=20101001090312" group-title="Film",DIVA
 http://210.210.155.35/uq2663/h/h11/index.m3u8
 #EXTINF:-1 tvg-logo="https://st2.depositphotos.com/3969727/9519/v/950/depositphotos_95197520-stock-illustration-cinema-word-written-spray-paint.jpg" group-title="Film",CINEMA WORD
