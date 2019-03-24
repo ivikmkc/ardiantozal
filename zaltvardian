@@ -84,7 +84,7 @@ http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/
 http://get.indotv.live:8081/live/gratis/semogaselamanya/69.m3u8
 #EXTINF:-1 tvg-logo="https://cdn0-a.production.images.static6.com/McFsQCtLAy0pRT_XIc_N0dbHBlM=/640x360/smart/filters:quality(90)/vidio-media-production/uploads/video/image/852835/fox-movies-501-eliminators-c9f7ba.jpg" group-title="Film",FOX Movies HD
 http://get.indotv.live:8081/live/gratis/semogaselamanya/71.m3u8
-#EXTINF:-1 tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-hbohd-480x320.jpg" group-title="Film",HBO Sub IND HD
+#EXTINF:-1 tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-hbohd-480x320.jpg" group-title="Film",HBO HD
 http://get.indotv.live:8081/live/gratis/semogaselamanya/68.m3u8
 #EXTINF:-1 tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-hbohd-480x320.jpg" group-title="Film",HBO SD
 http://103.205.133.14/hls/hbo.m3u8
