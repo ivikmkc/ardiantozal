@@ -230,24 +230,6 @@ rtmp://118.97.96.17:1935/discover/foxsport1_3
 rtmp://118.97.96.17:1935/discover/foxsport2_3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 3 INDO
 rtmp://118.97.96.17:1935/discover/foxsport3_3
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport", YES Sport 1 HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/242.m3u8
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport",YES Sport 2 HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/241.m3u8
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport",YES Sport 3 HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/240.m3u8
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport", YES Sport 4 HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/239.m3u8
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport",YES Sport 5 GOLD HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/238.m3u8
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport", YES Sport 5 HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/237.m3u8
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport", YES Sport 5 Live HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/236.m3u8
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport", YES Sport 5 Plus HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/235.m3u8
-#EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/fikrul-1552990470.jpg" group-title="Sport", YES Sport 5 Stars HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/234.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 1
 http://m-iptv.net:6204/mme/123/1913
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 2
