@@ -80,12 +80,24 @@ http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="Film",CELESTIAL MOVIE ID HD
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1 tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-hbohd-480x320.jpg" group-title="Film",HBO SD
-http://103.205.133.14/hls/hbo.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOX
-http://223.17.38.250:9981/stream/channelid/402413045?ticket=004D49715D32A911D5482ACC5F5093FDE58CE858&profile=pass
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Cinemax
-http://223.17.38.250:9981/stream/channelid/495441461?ticket=62C329A779770177ACF98453065E2EC1F5940B35&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_asia.png" tvg-id="c4379d13572d085312ffef2cd5d4a7a7",HBO HD
+http://203.153.218.26:9981/stream/channelid/329070532?ticket=0D6369D6884956AAF93CE1039E1046FBAAD2B6AB&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_hits.png" tvg-id="216ad7670aeac0b23e11fdbc13200c7f",HBO Hits
+http://203.153.218.26:9981/stream/channelid/1742170657?ticket=B84B1E44E14A7F1DF24E5554B7EDFA7010DAE540&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_family_asia.png" tvg-id="bd833b39257c35def3eff69f74d1d7e2",HBO Family
+http://203.153.218.26:9981/stream/channelid/960201661?ticket=EF097F66FBB2B38F7498F1DA2B609CEBB1C65DA9&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/blue-ant-extreme-ca.png" tvg-id="b57c2f8768bcfdba104c35a8dd8b6639",Blue Ant Extreme
+http://203.153.218.26:9981/stream/channelid/120552629?ticket=1B0DD703F1E4954FD48F3D5761B759D4ED8AE88D&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_global.png" tvg-id="59732413cf986964787adfb05e71d108",FOX
+http://203.153.218.26:9981/stream/channelid/321155929?ticket=9B8942113B9032967F78007351840C5F63E0512A&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_movies_family.png" tvg-id="2c3bbeac9d7621a579b275bc2ed6f67b",FOX Family Movies
+http://203.153.218.26:9981/stream/channelid/750664492?ticket=A3D34C2F4D75F25D2022471799701CD0FF7950A4&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_movies_action.png" tvg-id="21252d69f4203ee24552bb350a0b4880",FOX Action Movies
+http://203.153.218.26:9981/stream/channelid/1764566305?ticket=9469C6E700880D4CC8A909291B3D0A0FCD96B582&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/axn_global.png" tvg-id="c49f2c797fcd666531a473f4b459d32a",AXN
+http://203.153.218.26:9981/stream/channelid/2032967620?ticket=A5619860B84CB903D4540BB9203120F71F678C5D&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/cinemax_asia.png" tvg-id="b9791283a47d42c28266afa945ca5b64",Cinemax
+http://203.153.218.26:9981/stream/channelid/51542457?ticket=EEB71915D05D00CE97CB03258A40175C001E3E0B&profile=pass
 #EXTINF:-1 tvg-logo="https://id.beritasatu.com/media/images/medium2/20110114112637402.jpg" group-title="Film",Celestial Clasic Movie MY
 http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/2000px-KIX_logo.svg.png" group-title="Film",KIX
