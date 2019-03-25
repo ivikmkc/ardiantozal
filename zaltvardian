@@ -379,6 +379,10 @@ rtmp://118.97.96.17:1935/discover/natgeo_4
 rtmp://118.97.96.17:1935/discover/natgeopeople_4
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KNOWLEDGE",NatGeoWild indo
 rtmp://118.97.96.17:1935/discover/natgeowild_4
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/history_us.png" tvg-id="fbd303b30ae4cb8e3ad9b70dc26c5b01",History Channel
+http://203.153.218.26:9981/stream/channelid/855888891?ticket=7BBF0BC1FC41FDDE23BED943D38265C0E51315E9&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/discovery_global_us.png" tvg-id="b0bfd941e035c6b032d2785586389809",Discovery Channel
+http://203.153.218.26:9981/stream/channelid/1104789424?ticket=D6159F2217DA024B672E8590DE0AF9A7354159A0&profile=pass
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KNOWLEDGE",Fish Channel
 http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8
 #EXTINF:-1  tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="KNOWLEDGE",Foodie Channel
