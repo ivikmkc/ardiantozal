@@ -264,16 +264,6 @@ http://185-8-178-139.livesports24.online/btsportsport2.m3u8
 http://ott-cdn.ucom.am/s82/03.m3u8
 #EXTINF:-1 tvg-logo="https://allsport.site/uploads/posts/2017-05/1496076533_pic_ch120-1-.jpg" group-title="Sport",SENTANA SPORT
 http://ott-cdn.ucom.am/s81/03.m3u8
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 1
-http://51.15.161.236:25461/live/nicsky/fuckface/176.ts
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 2
-http://51.15.161.236:25461/live/nicsky/fuckface/177.ts
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 3
-http://51.15.161.236:25461/live/nicsky/fuckface/178.ts
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 4
-http://51.15.161.236:25461/live/nicsky/fuckface/179.ts
-#EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",TSN 5
-http://51.15.161.236:25461/live/nicsky/fuckface/180.ts
 #EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport", ABU DHABI SPORT
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:-1 tvg-logo="https://www.tsn.ca/polopoly_fs/1.421188!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/tsn-go.jpg" group-title="Sport",ABU DHABI SPORT 2
@@ -307,52 +297,6 @@ http://92.42.110.150:25461/live/rugby101/h8HSCrj260/672.m3u8
 
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport1
 https://storage.tumarcador.xyz/t1/live.m3u8
-#EXTINF:-1 tvg-id="f163c4e0769f035648ee76064f87e188",Bein1 [KP]
-http://223.17.38.250:9981/stream/channelid/1623483377?ticket=CC2C536462823585633F69EC524F64C12E0A98E2&profile=pass
-#EXTINF:-1 tvg-id="f9ba44d9f90c22c2b59dd448a0c14c36",Bein2 [KP]
-http://223.17.38.250:9981/stream/channelid/1497676537?ticket=7A8C0EE1433282576BD33B99A55D757F0FFC2BA1&profile=pass
-#EXTINF:-1 tvg-id="4fe4f83a8925e1f1d40bd35ec884b850",Bein3 [KP]
-http://223.17.38.250:9981/stream/channelid/989389903?ticket=8D919846D58B47F154558DD79482E0F490F74F3F&profile=pass
-#EXTINF:-1 tvg-id="648d32e047415d6c19222fb4a4d7c060",Bein4 [KP]
-http://223.17.38.250:9981/stream/channelid/1613925732?ticket=B4991679383F60599D094CE695DA497D871DD1AE&profile=pass
-#EXTINF:-1 tvg-id="4f1cd17d5fc4fa80761d4c4a9f24f255",FOX SPORTS 1 [KP]
-http://223.17.38.250:9981/stream/channelid/2110856271?ticket=F13B45712843D0B5418CD45105F543FAB03C2623&profile=pass
-#EXTINF:-1 tvg-id="8fa4a80257bbbef373859700e3f9e7d4",FOX SPORTS 2 [KP]
-http://223.17.38.250:9981/stream/channelid/44606607?ticket=138CF751F6F93C4F6C9E7EEF2E171CE1A2E4199F&profile=pass
-#EXTINF:-1 tvg-id="4635e01bb90f5098a654d9ffedeb9859",FOX SPORTS 3 [KP]
-http://223.17.38.250:9981/stream/channelid/467678534?ticket=0759F800E248AA57A4C21B332157A979CF58E60A&profile=pass
-#EXTINF:-1 tvg-id="514d32a322de12019bf895f560a28900",SKYNET SPORTS 1 [KP]
-http://223.17.38.250:9981/stream/channelid/590499153?ticket=52835EB53F0FFF268A05A0CC5DFFA870B1EF4F66&profile=pass
-#EXTINF:-1 tvg-id="fa164236f079470cf47450ffc7edb2e1",SKYNET SPORTS 2 [KP]
-http://223.17.38.250:9981/stream/channelid/910300922?ticket=559A30290F6D424CA65B04975C3E9685BBB81D62&profile=pass
-#EXTINF:-1 tvg-id="eed1cfdc113a69cb3127454dab15308f",SKYNET SPORTS 3 [KP]
-http://223.17.38.250:9981/stream/channelid/1557123566?ticket=2D2D924244B26467E6548EB83888AFD5DE01113C&profile=pass
-#EXTINF:-1 tvg-id="b176d1aaff3c2206abebf43188499ef5",SKYNET SPORTS 4 [KP]
-http://223.17.38.250:9981/stream/channelid/718370481?ticket=C188AD7BFD3E19A20E5B81BEB1053EDDA62A859B&profile=pass
-#EXTINF:-1 tvg-id="495f87817f7131997f5b5317706bfa08",SKYNET SPORTS 5 [KP]
-http://223.17.38.250:9981/stream/channelid/25648969?ticket=31B141343A4E598BBEA4AEDFD7DA2AA41F779EC9&profile=pass
-#EXTINF:-1 tvg-id="72f12ad466917d01df6af9cee8aa46da",SKYNET SPORTS 6 [KP]
-http://223.17.38.250:9981/stream/channelid/1412100466?ticket=1CA0EFBC9FD51D2F0A1821E43F8B4551772D725C&profile=pass
-#EXTINF:-1 tvg-id="6a868f7563b2be1a9aa1d724b049e1f1",SKYNET SPORTS HD [KP]
-http://223.17.38.250:9981/stream/channelid/1972340330?ticket=8E2717D9591F26E637D23E5E9573D1E93204E235&profile=pass
-#EXTINF:-1 tvg-id="616ece4d2726b8ff50db23ffcc07ee27",SKYNET SPORTS PLUS [KP]
-http://223.17.38.250:9981/stream/channelid/1305374305?ticket=567CCD139A5167D05C2EF3E01FD2E0BF63ED8AB4&profile=pass
-#EXTINF:-1 tvg-id="28d4c57a70e288c10e55a299fe1f1165",True HD1 [KP]
-http://223.17.38.250:9981/stream/channelid/2059785256?ticket=18A841D5A627972E8776B227B9EE48174E2CFD2F&profile=pass
-#EXTINF:-1 tvg-id="5b1af757b6e2839bf05d31fa920cfcb4",True HD2 [KP]
-http://223.17.38.250:9981/stream/channelid/1475811931?ticket=ABB13C7E8387F83DADE19B69601317B71A52E585&profile=pass
-#EXTINF:-1 tvg-id="96ffc53b7c7d3e710e9aed4bd90bf43d",True HD3 [KP]
-http://223.17.38.250:9981/stream/channelid/1002831766?ticket=CA57638F9353D91D6C2AFAAAD8ED5BC2B053F0FF&profile=pass
-#EXTINF:-1 tvg-id="658c6095fa5921d62d1296c29a6f9911",True HD4 [KP]
-http://223.17.38.250:9981/stream/channelid/358648933?ticket=0F39816FB38182F49960707E87EFC4185A9B63E6&profile=pass
-#EXTINF:-1 tvg-id="104714e38e4ed611c6ac06542e69206c",True Sport2 [KP]
-http://223.17.38.250:9981/stream/channelid/1662273296?ticket=06C1D525B3CF8F7F5EF7578B943B88D67C908FDB&profile=pass
-#EXTINF:-1 tvg-id="c6cea91f868f71a9abdf0369db04c8f4",True Sport5 [KP]
-http://223.17.38.250:9981/stream/channelid/531222214?ticket=6528BD4E09353A45E923D215580BC3C6C2093B14&profile=pass
-#EXTINF:-1 tvg-id="1e688849959073e968d6fadd360eae56",True Sport6 [KP]
-http://223.17.38.250:9981/stream/channelid/1233676318?ticket=15904D2BDFE28F3E50351C94CA74B698A2B5DB4A&profile=pass
-#EXTINF:-1 tvg-id="56ee8749891ee6a043e062e745b3eabe",True Sport7 [KP]
-http://223.17.38.250:9981/stream/channelid/1233645142?ticket=2A6C09EDC9A46C97E307176EC3E0D5A1551F5CAE&profile=pass
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport2
 https://storage.tumarcador.xyz/t3/live.m3u8
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-aUcneoabNQ8/W3B7j0H4KZI/AAAAAAAAILo/zAShR7KobHAYIfdvAUIJjDqrca5KEytjACLcBGAs/s1600/Movistar-Liga-de-Campeones.jpg" group-title="FEED SPORT",Feed Sport3
