@@ -100,12 +100,6 @@ http://203.153.218.26:9981/stream/channelid/1764566305?ticket=9469C6E700880D4CC8
 http://203.153.218.26:9981/stream/channelid/2032967620?ticket=A5619860B84CB903D4540BB9203120F71F678C5D&profile=pass
 #EXTINF:-1 logo="http://tv.dekagon.id/logo/cinemax_asia.png" tvg-id="b9791283a47d42c28266afa945ca5b64",Cinemax
 http://203.153.218.26:9981/stream/channelid/51542457?ticket=EEB71915D05D00CE97CB03258A40175C001E3E0B&profile=pass
-#EXTINF:-1 tvg-id="4606cf59c6fadd87d98ab4e9e59db778",IMC
-http://203.153.218.26:9981/stream/channelid/1506739782?ticket=CB1D101FFABC0792031879F5E73631822F8AC868&profile=pass
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/pelangi_id.png" tvg-id="2581754c83404207040bd624847156e6",Pelangi
-http://203.153.218.26:9981/stream/channelid/1282769189?ticket=4B0017459675EB437C80605524B1B5CD5F8FA9DA&profile=pass
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/mvp-drama-id.png" tvg-id="3a6516a9b79859d9f83443a51423cb60",MVP Drama
-http://203.153.218.26:9981/stream/channelid/689333562?ticket=3E548BBDD2CC58D0CE3C46B6E23AA3F7F094945F&profile=pass
 #EXTINF:-1 tvg-logo="https://id.beritasatu.com/media/images/medium2/20110114112637402.jpg" group-title="Film",Celestial Clasic Movie MY
 http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/2000px-KIX_logo.svg.png" group-title="Film",KIX
