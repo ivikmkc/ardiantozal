@@ -225,52 +225,6 @@ rtmp://118.97.96.17:1935/discover/foxsport1_3
 rtmp://118.97.96.17:1935/discover/foxsport2_3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/Fox_Sports_Asia.jpg" group-title="Sport",Foxsport 3 INDO
 rtmp://118.97.96.17:1935/discover/foxsport3_3
-#EXTINF:-1 tvg-id="9045fd45fc75a138ce6e2ec9713924e6",Bein1 [KP]
-http://223.17.38.250:9981/stream/channelid/1174226320
-#EXTINF:-1 tvg-id="3c52fb9a8ce91f5e53e5229bdfeb6190",Bein2 [KP]
-http://223.17.38.250:9981/stream/channelid/452678204
-#EXTINF:-1 tvg-id="15481ebceca6af6d3d42f477b3868b61",Bein3 [KP]
-http://223.17.38.250:9981/stream/channelid/1008617493
-#EXTINF:-1 tvg-id="97c74b337774c400a1c226af57b9bba5",Bein4 [KP]
-http://223.17.38.250:9981/stream/channelid/860604311?ticket=78F17A3B19161E9ED6053950D30E0412AB291207&profile=pass
-#EXTINF:-1 tvg-id="9778811dccbc0fd6be3ef89f1a75b06f",FOX SPORTS 1 [KP]
-http://223.17.38.250:9981/stream/channelid/495024279
-#EXTINF:-1 tvg-id="29b0bf9d295a880e77b7292342180f05",FOX SPORTS 2 [KP]
-http://223.17.38.250:9981/stream/channelid/499101737
-#EXTINF:-1 tvg-id="7f9f97fbd77b07ed42925debaac19dcf",FOX SPORTS 3 [KP]
-http://223.17.38.250:9981/stream/channelid/2073534335
-#EXTINF:-1 tvg-id="22e6f487d5b957c500886fe6bb2304a4",SKYNET SPORTS 1 [KP]
-http://223.17.38.250:9981/stream/channelid/133490210
-#EXTINF:-1 tvg-id="3364fce9d94785a3afb58b6950db012a",SKYNET SPORTS 2 [KP]
-http://223.17.38.250:9981/stream/channelid/1778148403
-#EXTINF:-1 tvg-id="3f94b3f0ff92528d1d9962aef2a9232f",SKYNET SPORTS 3 [KP]
-http://223.17.38.250:9981/stream/channelid/1890817087
-#EXTINF:-1 tvg-id="b0539fe0c766c3f29ad1aa9fa4828da9",SKYNET SPORTS 4 [KP]
-http://223.17.38.250:9981/stream/channelid/1621054384
-#EXTINF:-1 tvg-id="426bae1c152b55e0b9c0ce8761358ae8",SKYNET SPORTS 5 [KP]
-http://223.17.38.250:9981/stream/channelid/481192770
-#EXTINF:-1 tvg-id="1677e6f087a4be8ada0d9ffe1c007ecb",SKYNET SPORTS 6 [KP]
-http://223.17.38.250:9981/stream/channelid/1894151958
-#EXTINF:-1 tvg-id="343ae5b587445d1351e3ea8a1174ba18",SKYNET SPORTS HD [KP]
-http://223.17.38.250:9981/stream/channelid/904215092
-#EXTINF:-1 tvg-id="92adc173fa88843f45ce8571c83b5ee6",SKYNET SPORTS PLUS [KP]
-http://223.17.38.250:9981/stream/channelid/1942072722
-#EXTINF:-1 tvg-id="2a9a05a69c0e7e8264c9b116f861ca73",True HD1 [KP]
-http://223.17.38.250:9981/stream/channelid/637901354
-#EXTINF:-1 tvg-id="a23b98d2554473fd72d23c0ed9337576",True HD2 [KP]
-http://223.17.38.250:9981/stream/channelid/1385708450
-#EXTINF:-1 tvg-id="09d028ff78901e1c69170618fd214984",True HD3 [KP]
-http://223.17.38.250:9981/stream/channelid/2133381129
-#EXTINF:-1 tvg-id="e52e4dc36981cab1b8f0143b559ad213",True HD4 [KP]
-http://223.17.38.250:9981/stream/channelid/1129131749
-#EXTINF:-1 tvg-id="5c95cc27f29ce4a925aa6337ca866056",True Sport2 [KP]
-http://223.17.38.250:9981/stream/channelid/667719004
-#EXTINF:-1 tvg-id="5e7baff4c4673cde3a17dd7c0ee4175b",True Sport5 [KP]
-http://223.17.38.250:9981/stream/channelid/1957657438
-#EXTINF:-1 tvg-id="37eba07813246cb92905b9bdd50af157",True Sport6 [KP]
-http://223.17.38.250:9981/stream/channelid/2023811895
-#EXTINF:-1 tvg-id="b15ae3097a83699eeabe185ccfb49fbe",True Sport7 [KP]
-http://223.17.38.250:9981/stream/channelid/165894833
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 1
 http://eir4.pikaflik.co.uk:80/live?channelId=178&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 2
