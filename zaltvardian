@@ -116,14 +116,7 @@ http://210.210.155.35/session/c7b7f412-514c-11e9-a349-c81f66f89318/uq2663/h/h141
 http://210.210.155.35/uq2663/h/h11/index.m3u8
 #EXTINF:-1 tvg-logo="https://st2.depositphotos.com/3969727/9519/v/950/depositphotos_95197520-stock-illustration-cinema-word-written-spray-paint.jpg" group-title="Film",CINEMA WORD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="Film", & FliX HD
-http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/157470.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="Film", &PICTURE HD
-http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/125150.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="Film", &Prive HD
-http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/127269.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="Film", &TV HD
-http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/64262.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="Film",HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:-1 tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/2404695_logo_wow_tv.png" group-title="Film"",WOWOW MOVIES
