@@ -283,7 +283,6 @@ http://223.17.38.250:9981/stream/channelid/307801151?ticket=EBDD0D8074DF69557001
 http://223.17.38.250:9981/stream/channelid/645097579?ticket=605DCAD78D16F5C77AA160F88AF649E8DAA08005&profile=pass
 #EXTINF:-1 tvg-id="5cfbabf06b139b7925e0979c8819896b",True Sport7 [KP]
 http://223.17.38.250:9981/stream/channelid/1890319196?ticket=6D61F7D276DA2B616AC377A9F53F01D9743522C0&profile=pass
-
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 1
 http://eir4.pikaflik.co.uk:80/live?channelId=178&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 2
