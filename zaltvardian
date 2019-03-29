@@ -253,26 +253,34 @@ http://223.17.38.250:9981/stream/channelid/57126543
 http://223.17.38.250:9981/stream/channelid/1819042958
 #EXTINF:-1 logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsporthd.jpg" tvg-id="5cfbabf06b139b7925e0979c8819896b",True Sport7
 http://223.17.38.250:9981/stream/channelid/1890319196
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="Sport",ASTRO SUPER SPORT 1
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/147234.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="Sport",ASTRO SUPER SPORT 2
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/147235.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="Sport",ASTRO SUPER SPORT 3
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/147236.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="Sport",ASTRO SUPER SPORT 4
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/147237.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 1
-http://eir4.pikaflik.co.uk:80/live?channelId=178&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/62751.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 2
-http://eir4.pikaflik.co.uk:80/live?channelId=179&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/77965.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 3
-http://eir4.pikaflik.co.uk:80/live?channelId=180&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/62259.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 4
-http://eir4.pikaflik.co.uk:80/live?channelId=181&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93261.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 5
-http://eir4.pikaflik.co.uk:80/live?channelId=182&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198058.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 6
-http://eir4.pikaflik.co.uk:80/live?channelId=183&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/77957.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 7
-http://eir4.pikaflik.co.uk:80/live?channelId=184&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93264.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 8
-http://eir4.pikaflik.co.uk:80/live?channelId=185&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93262.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 9
-http://eir4.pikaflik.co.uk:80/live?channelId=186&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198061.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo=https://www.designersschool.net/wp-content/uploads/2017/05/1.png" group-title="Sport",BeinSport 10
-http://eir4.pikaflik.co.uk:80/live?channelId=187&deviceMac=00:1A:79:BE:2F:F6&uid=1615|User-Agent=Mozilla/5.0
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/62744.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png/revision/latest?cb=20181111072911" group-title="Sport",SUPER SOCCER
 http://210.210.155.35/uq2663/h/h20/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.grouponcdn.com/deal/2B72J2UuXYBTYk13cbrWR5FUHtsz/2B-1000x600/v1/c700x420.jpg" group-title="Sport",BT Sport 1 HD
