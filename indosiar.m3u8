@@ -1,1 +1,5 @@
-#EXTM3U #EXT-X-VERSION:4 #EXT-X-TARGETDURATION:4 #EXT-X-MEDIA-SEQUENCE:0 #EXTINF:3.960000, #EXT-X-BYTERANGE:55460@0 https://dl.dropbox.com/s/rg9qodxyzbvvbm5/ok.ts?dl=0 #EXTINF:1.056300, #EXT-X-BYTERANGE:22184@55460 https://dl.dropbox.com/s/rg9qodxyzbvvbm5/ok.ts?dl=0 
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000,RESOLUTION=640x360,NAME="360p"
+https://etslive-2-vidio-com.akamaized.net/exp=1581954949~acl=/hls-p/ingest_205_*/*~hmac=c868e35d8c475b0ae335fda14724b17c3a677ee3db7a5f6c26e360c6c4042136/hls-p/ingest_205_360p/index.m3u8
