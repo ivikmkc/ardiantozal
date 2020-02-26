@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000,RESOLUTION=640x360,NAME="360p"
+https://etslive-2-vidio-com.akamaized.net/exp=1582711624~acl=/hls-p/ingest_geo_6685_*/*~hmac=3da59e0d524adb9ef9048292a054ed8a91eb2229c054447cf7ee590d91b59822/hls-p/ingest_geo_6685_480p/index.m3u8

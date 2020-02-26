@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000,RESOLUTION=640x360,NAME="360p"
+https://production-premium-vidio-bein2.akamaized.net/out/v1/ad75e6e255cd45b1849f6ba0606bf0ee/index_2.m3u8
