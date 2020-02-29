@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000,RESOLUTION=640x360,NAME="360p"
-https://etslive-2-vidio-com.akamaized.net/exp=1582905762~acl=/hls-p/ingest_205_*/*~hmac=3375b9443dfb93248dd9745bb1a6644a0bc7aeb2de87c6cca10a4a8a387c7c22/hls-p/ingest_205_480p/index.m3u8
+https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=Lse1lRx5&v=20200202
