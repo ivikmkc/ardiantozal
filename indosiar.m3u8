@@ -1,7 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:8
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-PLAYLIST-TYPE:VOD
-#EXTINF:5.939267,
-http://mantul.biz.id:8888/live/henky6/mantulok/919.ts
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000,RESOLUTION=640x360,NAME="360p"
+https://etslive-2-vidio-com.akamaized.net/exp=1583076559~acl=/hls-p/ingest_6588_*/*~hmac=463c085906b784adf9313646132a0cc3a56c75fc01f9bb55a476a4ceeaad185e/hls-p/ingest_6588_480p/index.m3u8
