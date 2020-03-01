@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000,RESOLUTION=640x360,NAME="360p"
-https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=Lse1lRx5&v=20200202
+#EXT-X-TARGETDURATION:8
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:5.939267,
+http://mantul.biz.id:8888/live/henky6/mantulok/919.ts
